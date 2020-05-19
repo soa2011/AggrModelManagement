@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<sch:DomainTable xmlns:sch="http://aiaf.com/schemas" oid="14343184" name="AggrInstanceType">
+    <sch:name>AggrInstanceType</sch:name>
+    <sch:domainType>LIST_OF_VALUES</sch:domainType>
+    <sch:description></sch:description>
+    <sch:domainEntries>
+        <sch:BmfDomainEntry>
+            <sch:seqNumber>1</sch:seqNumber>
+            <sch:displayValue>Product Model</sch:displayValue>
+            <sch:dataValue>PRODUCT_META_MODEL</sch:dataValue>
+        </sch:BmfDomainEntry>
+        <sch:BmfDomainEntry>
+            <sch:seqNumber>2</sch:seqNumber>
+            <sch:displayValue>Client Model</sch:displayValue>
+            <sch:dataValue>CLIENT_META_MODEL</sch:dataValue>
+        </sch:BmfDomainEntry>
+        <sch:BmfDomainEntry>
+            <sch:seqNumber>3</sch:seqNumber>
+            <sch:displayValue>BMF Aggregate Meta Model</sch:displayValue>
+            <sch:dataValue>BMF_AGGR_META_MODEL</sch:dataValue>
+        </sch:BmfDomainEntry>
+        <sch:BmfDomainEntry>
+            <sch:seqNumber>4</sch:seqNumber>
+            <sch:displayValue>Integration Model</sch:displayValue>
+            <sch:dataValue>INTEGRATION_META_MODEL</sch:dataValue>
+        </sch:BmfDomainEntry>
+        <sch:BmfDomainEntry>
+            <sch:seqNumber>5</sch:seqNumber>
+            <sch:displayValue>Wip Session Model</sch:displayValue>
+            <sch:dataValue>WIP_SESSION_MODEL</sch:dataValue>
+        </sch:BmfDomainEntry>
+        <sch:BmfDomainEntry>
+            <sch:seqNumber>6</sch:seqNumber>
+            <sch:displayValue>User Model</sch:displayValue>
+            <sch:dataValue>USER_META_MODEL</sch:dataValue>
+        </sch:BmfDomainEntry>
+        <sch:BmfDomainEntry>
+            <sch:seqNumber>7</sch:seqNumber>
+            <sch:displayValue>Agent Model</sch:displayValue>
+            <sch:dataValue>AGENT_META_MODEL</sch:dataValue>
+        </sch:BmfDomainEntry>
+        <sch:BmfDomainEntry>
+            <sch:seqNumber>8</sch:seqNumber>
+            <sch:displayValue>Workflow Model</sch:displayValue>
+            <sch:dataValue>WORKFLOW_META_MODEL</sch:dataValue>
+        </sch:BmfDomainEntry>
+        <sch:BmfDomainEntry>
+            <sch:seqNumber>9</sch:seqNumber>
+            <sch:displayValue>Security Model</sch:displayValue>
+            <sch:dataValue>SECURITY_META_MODEL</sch:dataValue>
+        </sch:BmfDomainEntry>
+    </sch:domainEntries>
+</sch:DomainTable>

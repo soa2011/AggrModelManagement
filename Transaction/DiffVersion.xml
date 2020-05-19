@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<sch:Transaction xmlns:sch="http://aiaf.com/schemas" name="DiffVersion">
+    <sch:seqIndex>0</sch:seqIndex>
+    <sch:name>DiffVersion</sch:name>
+    <sch:businessName></sch:businessName>
+    <sch:label>DiffVersion</sch:label>
+    <sch:logicType>Groovy</sch:logicType>
+    <sch:methodBody>gitRepoManager.diffVersion(request,context)</sch:methodBody>
+    <sch:processDefinition></sch:processDefinition>
+    <sch:newStatus></sch:newStatus>
+    <sch:versionMode>New Version</sch:versionMode>
+    <sch:executionMode>With Transaction</sch:executionMode>
+    <sch:pageDefinition>ModelAdminActivity Detail</sch:pageDefinition>
+    <sch:securityToken></sch:securityToken>
+    <sch:transType></sch:transType>
+    <sch:description></sch:description>
+    <sch:bmfPage isRef="true">ModelAdminActivity Detail</sch:bmfPage>
+</sch:Transaction>

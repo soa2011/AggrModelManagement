@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<sch:PageDefinition xmlns:sch="http://aiaf.com/schemas" name="XPathDefinition Summary">
+    <sch:name>XPathDefinition Summary</sch:name>
+    <sch:pageNumber></sch:pageNumber>
+    <sch:pageType>Summary</sch:pageType>
+    <sch:description></sch:description>
+    <sch:clientSideController></sch:clientSideController>
+    <sch:serverSideController></sch:serverSideController>
+    <sch:objectType isRef="true">XPathDefinition</sch:objectType>
+    <sch:fields>
+        <sch:BmfPageField>
+            <sch:name>XPathString</sch:name>
+            <sch:seqNumber>300</sch:seqNumber>
+            <sch:fieldType></sch:fieldType>
+            <sch:widgetType2></sch:widgetType2>
+            <sch:refTargetType></sch:refTargetType>
+            <sch:label>XPathString</sch:label>
+            <sch:controllingParameters></sch:controllingParameters>
+            <sch:domainName></sch:domainName>
+        </sch:BmfPageField>
+        <sch:BmfPageField>
+            <sch:name>../Name</sch:name>
+            <sch:seqNumber>400</sch:seqNumber>
+            <sch:fieldType></sch:fieldType>
+            <sch:widgetType2></sch:widgetType2>
+            <sch:refTargetType></sch:refTargetType>
+            <sch:label>ObjectType</sch:label>
+            <sch:controllingParameters></sch:controllingParameters>
+            <sch:domainName></sch:domainName>
+        </sch:BmfPageField>
+        <sch:BmfPageField>
+            <sch:name>XPathDisplayName</sch:name>
+            <sch:seqNumber>600</sch:seqNumber>
+            <sch:fieldType></sch:fieldType>
+            <sch:widgetType2></sch:widgetType2>
+            <sch:refTargetType></sch:refTargetType>
+            <sch:label>XPathDisplayName</sch:label>
+            <sch:controllingParameters></sch:controllingParameters>
+            <sch:domainName></sch:domainName>
+        </sch:BmfPageField>
+    </sch:fields>
+    <sch:variables/>
+    <sch:treeNodes/>
+    <sch:buttons/>
+</sch:PageDefinition>

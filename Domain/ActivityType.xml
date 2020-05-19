@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<sch:DomainTable xmlns:sch="http://aiaf.com/schemas" oid="14343060" name="ActivityType">
+    <sch:name>ActivityType</sch:name>
+    <sch:domainType>LIST_OF_VALUES</sch:domainType>
+    <sch:description></sch:description>
+    <sch:domainEntries>
+        <sch:BmfDomainEntry>
+            <sch:seqNumber>1</sch:seqNumber>
+            <sch:displayValue>IMPORT_REPLACE</sch:displayValue>
+            <sch:dataValue>IMPORT_REPLACE</sch:dataValue>
+        </sch:BmfDomainEntry>
+        <sch:BmfDomainEntry>
+            <sch:seqNumber>2</sch:seqNumber>
+            <sch:displayValue>UPDATE_DEPLOY</sch:displayValue>
+            <sch:dataValue>UPDATE_DEPLOY</sch:dataValue>
+        </sch:BmfDomainEntry>
+        <sch:BmfDomainEntry>
+            <sch:seqNumber>3</sch:seqNumber>
+            <sch:displayValue>IMPORT_CHANGE_SET</sch:displayValue>
+            <sch:dataValue>IMPORT_CHANGE_SET</sch:dataValue>
+        </sch:BmfDomainEntry>
+    </sch:domainEntries>
+</sch:DomainTable>

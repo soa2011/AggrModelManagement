@@ -1,0 +1,195 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<sch:PageDefinition xmlns:sch="http://aiaf.com/schemas" name="Business Transaction Detail">
+    <sch:name>Business Transaction Detail</sch:name>
+    <sch:pageNumber></sch:pageNumber>
+    <sch:pageType>Detail</sch:pageType>
+    <sch:description></sch:description>
+    <sch:clientSideController></sch:clientSideController>
+    <sch:serverSideController></sch:serverSideController>
+    <sch:objectType isRef="true">BusinessTransaction</sch:objectType>
+    <sch:fields>
+        <sch:BmfPageField>
+            <sch:name>Name</sch:name>
+            <sch:seqNumber>200</sch:seqNumber>
+            <sch:fieldType>Edit</sch:fieldType>
+            <sch:widgetType2></sch:widgetType2>
+            <sch:refTargetType></sch:refTargetType>
+            <sch:label>Name</sch:label>
+            <sch:controllingParameters></sch:controllingParameters>
+            <sch:domainName></sch:domainName>
+        </sch:BmfPageField>
+        <sch:BmfPageField>
+            <sch:name>Label</sch:name>
+            <sch:seqNumber>220</sch:seqNumber>
+            <sch:fieldType>Edit</sch:fieldType>
+            <sch:widgetType2></sch:widgetType2>
+            <sch:refTargetType></sch:refTargetType>
+            <sch:label>Label</sch:label>
+            <sch:controllingParameters></sch:controllingParameters>
+            <sch:domainName></sch:domainName>
+        </sch:BmfPageField>
+        <sch:BmfPageField>
+            <sch:name>TransType</sch:name>
+            <sch:seqNumber>230</sch:seqNumber>
+            <sch:fieldType>Select</sch:fieldType>
+            <sch:widgetType2></sch:widgetType2>
+            <sch:refTargetType></sch:refTargetType>
+            <sch:label>Trans Type</sch:label>
+            <sch:controllingParameters></sch:controllingParameters>
+            <sch:domainName>TransType</sch:domainName>
+        </sch:BmfPageField>
+        <sch:BmfPageField>
+            <sch:name>LogicType</sch:name>
+            <sch:seqNumber>250</sch:seqNumber>
+            <sch:fieldType>Select</sch:fieldType>
+            <sch:widgetType2></sch:widgetType2>
+            <sch:refTargetType></sch:refTargetType>
+            <sch:label>Logic Type</sch:label>
+            <sch:controllingParameters></sch:controllingParameters>
+            <sch:domainName>LogicType</sch:domainName>
+        </sch:BmfPageField>
+        <sch:BmfPageField>
+            <sch:name>MethodBody</sch:name>
+            <sch:seqNumber>300</sch:seqNumber>
+            <sch:fieldType>TextArea</sch:fieldType>
+            <sch:widgetType2></sch:widgetType2>
+            <sch:refTargetType></sch:refTargetType>
+            <sch:label>Method Body</sch:label>
+            <sch:controllingParameters></sch:controllingParameters>
+            <sch:domainName></sch:domainName>
+        </sch:BmfPageField>
+        <sch:BmfPageField>
+            <sch:name>PageDefinition</sch:name>
+            <sch:seqNumber>400</sch:seqNumber>
+            <sch:fieldType>Select</sch:fieldType>
+            <sch:widgetType2></sch:widgetType2>
+            <sch:refTargetType></sch:refTargetType>
+            <sch:label>Page Definition</sch:label>
+            <sch:controllingParameters></sch:controllingParameters>
+            <sch:domainName>PageDefinition</sch:domainName>
+        </sch:BmfPageField>
+        <sch:BmfPageField>
+            <sch:name>ChoiceOnClientEditor</sch:name>
+            <sch:seqNumber>600</sch:seqNumber>
+            <sch:fieldType>Checkbox</sch:fieldType>
+            <sch:widgetType2></sch:widgetType2>
+            <sch:refTargetType></sch:refTargetType>
+            <sch:label>Choice On Client Editor</sch:label>
+            <sch:controllingParameters></sch:controllingParameters>
+            <sch:domainName></sch:domainName>
+        </sch:BmfPageField>
+        <sch:BmfPageField>
+            <sch:name>ChoiceOnPolicyEditor</sch:name>
+            <sch:seqNumber>700</sch:seqNumber>
+            <sch:fieldType>Checkbox</sch:fieldType>
+            <sch:widgetType2></sch:widgetType2>
+            <sch:refTargetType></sch:refTargetType>
+            <sch:label>Choice On Policy Editor</sch:label>
+            <sch:controllingParameters></sch:controllingParameters>
+            <sch:domainName></sch:domainName>
+        </sch:BmfPageField>
+        <sch:BmfPageField>
+            <sch:name>ProcessDefinition</sch:name>
+            <sch:seqNumber>750</sch:seqNumber>
+            <sch:fieldType>Edit</sch:fieldType>
+            <sch:widgetType2></sch:widgetType2>
+            <sch:refTargetType></sch:refTargetType>
+            <sch:label>Process Definition</sch:label>
+            <sch:controllingParameters></sch:controllingParameters>
+            <sch:domainName></sch:domainName>
+        </sch:BmfPageField>
+        <sch:BmfPageField>
+            <sch:name>NewStatus</sch:name>
+            <sch:seqNumber>800</sch:seqNumber>
+            <sch:fieldType>Edit</sch:fieldType>
+            <sch:widgetType2></sch:widgetType2>
+            <sch:refTargetType></sch:refTargetType>
+            <sch:label>New Status</sch:label>
+            <sch:controllingParameters></sch:controllingParameters>
+            <sch:domainName></sch:domainName>
+        </sch:BmfPageField>
+        <sch:BmfPageField>
+            <sch:name>SecurityToken</sch:name>
+            <sch:seqNumber>820</sch:seqNumber>
+            <sch:fieldType>ObjectSelector</sch:fieldType>
+            <sch:widgetType2></sch:widgetType2>
+            <sch:refTargetType>SecurityToken</sch:refTargetType>
+            <sch:label>Security Token</sch:label>
+            <sch:controllingParameters></sch:controllingParameters>
+            <sch:domainName></sch:domainName>
+        </sch:BmfPageField>
+        <sch:BmfPageField>
+            <sch:name>EventToFire</sch:name>
+            <sch:seqNumber>830</sch:seqNumber>
+            <sch:fieldType>Edit</sch:fieldType>
+            <sch:widgetType2></sch:widgetType2>
+            <sch:refTargetType></sch:refTargetType>
+            <sch:label>Event To Fire</sch:label>
+            <sch:controllingParameters></sch:controllingParameters>
+            <sch:domainName></sch:domainName>
+        </sch:BmfPageField>
+        <sch:BmfPageField>
+            <sch:name>VersionMode</sch:name>
+            <sch:seqNumber>1840</sch:seqNumber>
+            <sch:fieldType>Select</sch:fieldType>
+            <sch:widgetType2></sch:widgetType2>
+            <sch:refTargetType></sch:refTargetType>
+            <sch:label>Version Mode</sch:label>
+            <sch:controllingParameters></sch:controllingParameters>
+            <sch:domainName>VersionMode</sch:domainName>
+        </sch:BmfPageField>
+        <sch:BmfPageField>
+            <sch:name>ExecutionMode</sch:name>
+            <sch:seqNumber>1880</sch:seqNumber>
+            <sch:fieldType>Select</sch:fieldType>
+            <sch:widgetType2></sch:widgetType2>
+            <sch:refTargetType></sch:refTargetType>
+            <sch:label>Execution Mode</sch:label>
+            <sch:controllingParameters></sch:controllingParameters>
+            <sch:domainName>ExecutionMode</sch:domainName>
+        </sch:BmfPageField>
+        <sch:BmfPageField>
+            <sch:name>BusinessName</sch:name>
+            <sch:seqNumber>1890</sch:seqNumber>
+            <sch:fieldType>Edit</sch:fieldType>
+            <sch:widgetType2></sch:widgetType2>
+            <sch:refTargetType></sch:refTargetType>
+            <sch:label>Business Transaction</sch:label>
+            <sch:controllingParameters></sch:controllingParameters>
+            <sch:domainName></sch:domainName>
+        </sch:BmfPageField>
+        <sch:BmfPageField>
+            <sch:name>Description</sch:name>
+            <sch:seqNumber>1900</sch:seqNumber>
+            <sch:fieldType>TextArea</sch:fieldType>
+            <sch:widgetType2></sch:widgetType2>
+            <sch:refTargetType></sch:refTargetType>
+            <sch:label>Description</sch:label>
+            <sch:controllingParameters></sch:controllingParameters>
+            <sch:domainName></sch:domainName>
+        </sch:BmfPageField>
+        <sch:BmfPageField>
+            <sch:name>AggrModelId</sch:name>
+            <sch:seqNumber>10000</sch:seqNumber>
+            <sch:fieldType>ObjectSelector</sch:fieldType>
+            <sch:widgetType2></sch:widgetType2>
+            <sch:refTargetType>AggrModelDefinition</sch:refTargetType>
+            <sch:label>AggrModel</sch:label>
+            <sch:controllingParameters></sch:controllingParameters>
+            <sch:domainName></sch:domainName>
+        </sch:BmfPageField>
+    </sch:fields>
+    <sch:variables/>
+    <sch:treeNodes/>
+    <sch:buttons>
+        <sch:BmfPageButton>
+            <sch:seqNo>1700</sch:seqNo>
+            <sch:buttonName>EditBPM</sch:buttonName>
+            <sch:displayCondition></sch:displayCondition>
+            <sch:displayResource></sch:displayResource>
+            <sch:description></sch:description>
+            <sch:showButton>true</sch:showButton>
+            <sch:eventHandler></sch:eventHandler>
+        </sch:BmfPageButton>
+    </sch:buttons>
+</sch:PageDefinition>

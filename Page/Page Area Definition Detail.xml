@@ -1,0 +1,215 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<sch:PageDefinition xmlns:sch="http://aiaf.com/schemas" name="Page Area Definition Detail">
+    <sch:name>Page Area Definition Detail</sch:name>
+    <sch:pageNumber></sch:pageNumber>
+    <sch:pageType>Detail</sch:pageType>
+    <sch:description></sch:description>
+    <sch:clientSideController></sch:clientSideController>
+    <sch:serverSideController></sch:serverSideController>
+    <sch:objectType isRef="true">PageAreaDefinition</sch:objectType>
+    <sch:fields>
+        <sch:BmfPageField>
+            <sch:name>Name</sch:name>
+            <sch:seqNumber>100</sch:seqNumber>
+            <sch:fieldType>Edit</sch:fieldType>
+            <sch:widgetType2></sch:widgetType2>
+            <sch:refTargetType></sch:refTargetType>
+            <sch:label>Name</sch:label>
+            <sch:controllingParameters></sch:controllingParameters>
+            <sch:domainName></sch:domainName>
+        </sch:BmfPageField>
+        <sch:BmfPageField>
+            <sch:name>OrdinalSeqNumber</sch:name>
+            <sch:seqNumber>120</sch:seqNumber>
+            <sch:fieldType>Edit</sch:fieldType>
+            <sch:widgetType2></sch:widgetType2>
+            <sch:refTargetType></sch:refTargetType>
+            <sch:label>Ordinal SeqNumber</sch:label>
+            <sch:controllingParameters></sch:controllingParameters>
+            <sch:domainName></sch:domainName>
+        </sch:BmfPageField>
+        <sch:BmfPageField>
+            <sch:name>TabId</sch:name>
+            <sch:seqNumber>150</sch:seqNumber>
+            <sch:fieldType>Select</sch:fieldType>
+            <sch:widgetType2></sch:widgetType2>
+            <sch:refTargetType></sch:refTargetType>
+            <sch:label>Tab Name</sch:label>
+            <sch:controllingParameters></sch:controllingParameters>
+            <sch:domainName>TabList</sch:domainName>
+        </sch:BmfPageField>
+        <sch:BmfPageField>
+            <sch:name>BindingXpath</sch:name>
+            <sch:seqNumber>155</sch:seqNumber>
+            <sch:fieldType>Edit</sch:fieldType>
+            <sch:widgetType2></sch:widgetType2>
+            <sch:refTargetType></sch:refTargetType>
+            <sch:label>BindingXpath</sch:label>
+            <sch:controllingParameters></sch:controllingParameters>
+            <sch:domainName></sch:domainName>
+        </sch:BmfPageField>
+        <sch:BmfPageField>
+            <sch:name>QueryParam</sch:name>
+            <sch:seqNumber>160</sch:seqNumber>
+            <sch:fieldType>TextArea</sch:fieldType>
+            <sch:widgetType2></sch:widgetType2>
+            <sch:refTargetType></sch:refTargetType>
+            <sch:label>Query Param</sch:label>
+            <sch:controllingParameters></sch:controllingParameters>
+            <sch:domainName></sch:domainName>
+        </sch:BmfPageField>
+        <sch:BmfPageField>
+            <sch:name>Controller</sch:name>
+            <sch:seqNumber>170</sch:seqNumber>
+            <sch:fieldType>TextArea</sch:fieldType>
+            <sch:widgetType2></sch:widgetType2>
+            <sch:refTargetType></sch:refTargetType>
+            <sch:label>Controller</sch:label>
+            <sch:controllingParameters></sch:controllingParameters>
+            <sch:domainName></sch:domainName>
+        </sch:BmfPageField>
+        <sch:BmfPageField>
+            <sch:name>RowSeqNumber</sch:name>
+            <sch:seqNumber>200</sch:seqNumber>
+            <sch:fieldType>Edit</sch:fieldType>
+            <sch:widgetType2></sch:widgetType2>
+            <sch:refTargetType></sch:refTargetType>
+            <sch:label>Row SeqNumber</sch:label>
+            <sch:controllingParameters></sch:controllingParameters>
+            <sch:domainName>PageType</sch:domainName>
+        </sch:BmfPageField>
+        <sch:BmfPageField>
+            <sch:name>ColumnSeqNumber</sch:name>
+            <sch:seqNumber>210</sch:seqNumber>
+            <sch:fieldType>Edit</sch:fieldType>
+            <sch:widgetType2></sch:widgetType2>
+            <sch:refTargetType></sch:refTargetType>
+            <sch:label>Column SeqNumber</sch:label>
+            <sch:controllingParameters></sch:controllingParameters>
+            <sch:domainName></sch:domainName>
+        </sch:BmfPageField>
+        <sch:BmfPageField>
+            <sch:name>RowSpan</sch:name>
+            <sch:seqNumber>211</sch:seqNumber>
+            <sch:fieldType>Edit</sch:fieldType>
+            <sch:widgetType2></sch:widgetType2>
+            <sch:refTargetType></sch:refTargetType>
+            <sch:label>Row Span</sch:label>
+            <sch:controllingParameters></sch:controllingParameters>
+            <sch:domainName></sch:domainName>
+        </sch:BmfPageField>
+        <sch:BmfPageField>
+            <sch:name>ColSpan</sch:name>
+            <sch:seqNumber>212</sch:seqNumber>
+            <sch:fieldType>Edit</sch:fieldType>
+            <sch:widgetType2></sch:widgetType2>
+            <sch:refTargetType></sch:refTargetType>
+            <sch:label>Column Span</sch:label>
+            <sch:controllingParameters></sch:controllingParameters>
+            <sch:domainName></sch:domainName>
+        </sch:BmfPageField>
+        <sch:BmfPageField>
+            <sch:name></sch:name>
+            <sch:seqNumber>220</sch:seqNumber>
+            <sch:fieldType>Section Header Begin</sch:fieldType>
+            <sch:widgetType2></sch:widgetType2>
+            <sch:refTargetType></sch:refTargetType>
+            <sch:label>Area Info</sch:label>
+            <sch:controllingParameters></sch:controllingParameters>
+            <sch:domainName></sch:domainName>
+        </sch:BmfPageField>
+        <sch:BmfPageField>
+            <sch:name>AreaType</sch:name>
+            <sch:seqNumber>221</sch:seqNumber>
+            <sch:fieldType>Select</sch:fieldType>
+            <sch:widgetType2></sch:widgetType2>
+            <sch:refTargetType></sch:refTargetType>
+            <sch:label>Area Type</sch:label>
+            <sch:controllingParameters></sch:controllingParameters>
+            <sch:domainName>PageAreaType</sch:domainName>
+        </sch:BmfPageField>
+        <sch:BmfPageField>
+            <sch:name>SelectionMode</sch:name>
+            <sch:seqNumber>225</sch:seqNumber>
+            <sch:fieldType>Select</sch:fieldType>
+            <sch:widgetType2></sch:widgetType2>
+            <sch:refTargetType></sch:refTargetType>
+            <sch:label>Selection Mode</sch:label>
+            <sch:controllingParameters></sch:controllingParameters>
+            <sch:domainName>SelectionMode</sch:domainName>
+        </sch:BmfPageField>
+        <sch:BmfPageField>
+            <sch:name>SelectedAssignXPath</sch:name>
+            <sch:seqNumber>228</sch:seqNumber>
+            <sch:fieldType>ObjectSelector</sch:fieldType>
+            <sch:widgetType2>XPathEditor:evalXPath('../ObjectTypeId')</sch:widgetType2>
+            <sch:refTargetType>XPathDefinition</sch:refTargetType>
+            <sch:label>Selected Assignment XPath</sch:label>
+            <sch:controllingParameters></sch:controllingParameters>
+            <sch:domainName></sch:domainName>
+        </sch:BmfPageField>
+        <sch:BmfPageField>
+            <sch:name>AnchorObjectTypeId</sch:name>
+            <sch:seqNumber>230</sch:seqNumber>
+            <sch:fieldType>ObjectSelector</sch:fieldType>
+            <sch:widgetType2></sch:widgetType2>
+            <sch:refTargetType>ObjectType</sch:refTargetType>
+            <sch:label>Anchor Object Type</sch:label>
+            <sch:controllingParameters></sch:controllingParameters>
+            <sch:domainName></sch:domainName>
+        </sch:BmfPageField>
+        <sch:BmfPageField>
+            <sch:name>TargetObjectTypeId</sch:name>
+            <sch:seqNumber>240</sch:seqNumber>
+            <sch:fieldType>ObjectSelector</sch:fieldType>
+            <sch:widgetType2></sch:widgetType2>
+            <sch:refTargetType>ObjectType</sch:refTargetType>
+            <sch:label>Target Object Type</sch:label>
+            <sch:controllingParameters></sch:controllingParameters>
+            <sch:domainName></sch:domainName>
+        </sch:BmfPageField>
+        <sch:BmfPageField>
+            <sch:name>TargetObjectSearchXPath</sch:name>
+            <sch:seqNumber>260</sch:seqNumber>
+            <sch:fieldType>ObjectSelector</sch:fieldType>
+            <sch:widgetType2>XPathEditor:evalXPath('../ObjectTypeId')</sch:widgetType2>
+            <sch:refTargetType>XPathDefinition</sch:refTargetType>
+            <sch:label>Target Object Search XPath</sch:label>
+            <sch:controllingParameters></sch:controllingParameters>
+            <sch:domainName></sch:domainName>
+        </sch:BmfPageField>
+        <sch:BmfPageField>
+            <sch:name>ViewOrInput</sch:name>
+            <sch:seqNumber>300</sch:seqNumber>
+            <sch:fieldType>Select</sch:fieldType>
+            <sch:widgetType2></sch:widgetType2>
+            <sch:refTargetType></sch:refTargetType>
+            <sch:label>View Or Input</sch:label>
+            <sch:controllingParameters></sch:controllingParameters>
+            <sch:domainName>ViewOrInput</sch:domainName>
+        </sch:BmfPageField>
+        <sch:BmfPageField>
+            <sch:name>VisibilityExprId</sch:name>
+            <sch:seqNumber>700</sch:seqNumber>
+            <sch:fieldType>ObjectSelector</sch:fieldType>
+            <sch:widgetType2>ExpressionEditor:TargetObjectTypeId</sch:widgetType2>
+            <sch:refTargetType>ExpressionDefinition</sch:refTargetType>
+            <sch:label>Display Condition</sch:label>
+            <sch:controllingParameters></sch:controllingParameters>
+            <sch:domainName></sch:domainName>
+        </sch:BmfPageField>
+        <sch:BmfPageField>
+            <sch:name>AiafComponentId</sch:name>
+            <sch:seqNumber>800</sch:seqNumber>
+            <sch:fieldType>ObjectSelector</sch:fieldType>
+            <sch:widgetType2>ExpressionEditor:evalXPath('../TargetObjectTypeId')</sch:widgetType2>
+            <sch:refTargetType>AiafComponent</sch:refTargetType>
+            <sch:label>AiafComponent</sch:label>
+            <sch:controllingParameters></sch:controllingParameters>
+            <sch:domainName></sch:domainName>
+        </sch:BmfPageField>
+    </sch:fields>
+    <sch:variables/>
+    <sch:treeNodes/>
+    <sch:buttons/>
+</sch:PageDefinition>
