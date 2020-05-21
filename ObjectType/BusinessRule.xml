@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<sch:ObjectType xmlns:sch="http://aiaf.com/schemas" oid="14340432" name="BusinessRule">
+<sch:ObjectType xmlns:sch="http://aiaf.com/schemas" oid="14346576" name="BusinessRule">
     <sch:name>BusinessRule</sch:name>
     <sch:tableType>Risk</sch:tableType>
     <sch:archetype>NORMAL</sch:archetype>

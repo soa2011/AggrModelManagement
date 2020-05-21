@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<sch:ObjectType xmlns:sch="http://aiaf.com/schemas" oid="14340376" name="DetailPageField">
+<sch:ObjectType xmlns:sch="http://aiaf.com/schemas" oid="14346520" name="DetailPageField">
     <sch:name>DetailPageField</sch:name>
     <sch:tableType>Risk</sch:tableType>
     <sch:archetype>NORMAL</sch:archetype>

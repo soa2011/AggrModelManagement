@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<sch:ObjectType xmlns:sch="http://aiaf.com/schemas" oid="14340136" name="AggrModelActivity">
+<sch:ObjectType xmlns:sch="http://aiaf.com/schemas" oid="14346280" name="AggrModelActivity">
     <sch:name>AggrModelActivity</sch:name>
     <sch:tableType>System</sch:tableType>
     <sch:archetype>NORMAL</sch:archetype>

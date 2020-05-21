@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<sch:ObjectType xmlns:sch="http://aiaf.com/schemas" oid="14340448" name="Button">
+<sch:ObjectType xmlns:sch="http://aiaf.com/schemas" oid="14346592" name="Button">
     <sch:name>Button</sch:name>
     <sch:tableType>Risk</sch:tableType>
     <sch:archetype>NORMAL</sch:archetype>
