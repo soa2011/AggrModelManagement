@@ -183,28 +183,6 @@
             <sch:description></sch:description>
         </sch:BmfTreeNode>
         <sch:BmfTreeNode>
-            <sch:tableName>BmfAggrModel</sch:tableName>
-            <sch:type>Collection</sch:type>
-            <sch:seqIndex>3100</sch:seqIndex>
-            <sch:format>BmfAggrModel(%s)</sch:format>
-            <sch:columns>#count</sch:columns>
-            <sch:action>No</sch:action>
-            <sch:quoteDisplay>false</sch:quoteDisplay>
-            <sch:policyDisplay>true</sch:policyDisplay>
-            <sch:description></sch:description>
-        </sch:BmfTreeNode>
-        <sch:BmfTreeNode>
-            <sch:tableName>BmfAggrModel</sch:tableName>
-            <sch:type>Item</sch:type>
-            <sch:seqIndex>3110</sch:seqIndex>
-            <sch:format>%s</sch:format>
-            <sch:columns>Name</sch:columns>
-            <sch:action>No</sch:action>
-            <sch:quoteDisplay>false</sch:quoteDisplay>
-            <sch:policyDisplay>true</sch:policyDisplay>
-            <sch:description></sch:description>
-        </sch:BmfTreeNode>
-        <sch:BmfTreeNode>
             <sch:tableName>ModelRelationship</sch:tableName>
             <sch:type>Collection</sch:type>
             <sch:seqIndex>3120</sch:seqIndex>

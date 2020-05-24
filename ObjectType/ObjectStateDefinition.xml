@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<sch:ObjectType xmlns:sch="http://aiaf.com/schemas" oid="14346376" name="ObjectStateDefinition">
+<sch:ObjectType xmlns:sch="http://aiaf.com/schemas" oid="14364788" name="ObjectStateDefinition">
     <sch:name>ObjectStateDefinition</sch:name>
     <sch:tableType>Risk</sch:tableType>
     <sch:archetype>CONFIG</sch:archetype>

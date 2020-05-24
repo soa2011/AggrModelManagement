@@ -135,7 +135,7 @@
             <sch:pageAreaName></sch:pageAreaName>
             <sch:fieldType>ObjectSelector</sch:fieldType>
             <sch:widgetType2></sch:widgetType2>
-            <sch:refTargetType>BmfAggrModel</sch:refTargetType>
+            <sch:refTargetType>AggrModelDefinition</sch:refTargetType>
             <sch:label>Related Model Id</sch:label>
             <sch:controllingParameters></sch:controllingParameters>
             <sch:domainName></sch:domainName>

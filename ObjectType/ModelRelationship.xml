@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<sch:ObjectType xmlns:sch="http://aiaf.com/schemas" oid="14346328" name="ModelRelationship">
+<sch:ObjectType xmlns:sch="http://aiaf.com/schemas" oid="14364740" name="ModelRelationship">
     <sch:name>ModelRelationship</sch:name>
     <sch:tableType>Risk</sch:tableType>
     <sch:archetype>NORMAL</sch:archetype>
@@ -14,7 +14,7 @@
             <sch:name>RelatedModelId</sch:name>
             <sch:displayName></sch:displayName>
             <sch:description></sch:description>
-            <sch:relatedObjectType>BmfAggrModel</sch:relatedObjectType>
+            <sch:relatedObjectType>AggrModelDefinition</sch:relatedObjectType>
             <sch:joinField></sch:joinField>
             <sch:lowerBound>0</sch:lowerBound>
             <sch:upperBound>1</sch:upperBound>

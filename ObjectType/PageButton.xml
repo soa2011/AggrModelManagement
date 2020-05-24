@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<sch:ObjectType xmlns:sch="http://aiaf.com/schemas" oid="14346536" name="PageButton">
+<sch:ObjectType xmlns:sch="http://aiaf.com/schemas" oid="14364948" name="PageButton">
     <sch:name>PageButton</sch:name>
     <sch:tableType>Risk</sch:tableType>
     <sch:archetype>NORMAL</sch:archetype>
