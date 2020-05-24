@@ -5,7 +5,7 @@
     <sch:businessName></sch:businessName>
     <sch:label>CheckoutVersion</sch:label>
     <sch:logicType>Groovy</sch:logicType>
-    <sch:methodBody>gitRepoManager.checkoutVersion(request,context)</sch:methodBody>
+    <sch:methodBody>mdsGitRepoManager.checkoutVersion(request,context)</sch:methodBody>
     <sch:processDefinition></sch:processDefinition>
     <sch:newStatus></sch:newStatus>
     <sch:versionMode>New Version</sch:versionMode>

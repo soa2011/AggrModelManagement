@@ -5,7 +5,7 @@
     <sch:businessName></sch:businessName>
     <sch:label>InitApp</sch:label>
     <sch:logicType>Groovy</sch:logicType>
-    <sch:methodBody>gitRepoManager.initApp(request,context)</sch:methodBody>
+    <sch:methodBody>mdsGitRepoManager.initApp(request,context)</sch:methodBody>
     <sch:processDefinition></sch:processDefinition>
     <sch:newStatus></sch:newStatus>
     <sch:versionMode>New Version</sch:versionMode>

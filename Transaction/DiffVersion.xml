@@ -5,7 +5,7 @@
     <sch:businessName></sch:businessName>
     <sch:label>DiffVersion</sch:label>
     <sch:logicType>Groovy</sch:logicType>
-    <sch:methodBody>gitRepoManager.diffVersion(request,context)</sch:methodBody>
+    <sch:methodBody>mdsGitRepoManager.diffVersion(request,context)</sch:methodBody>
     <sch:processDefinition></sch:processDefinition>
     <sch:newStatus></sch:newStatus>
     <sch:versionMode>New Version</sch:versionMode>

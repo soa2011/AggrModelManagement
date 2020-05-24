@@ -5,7 +5,7 @@
     <sch:businessName></sch:businessName>
     <sch:label>NewBranch</sch:label>
     <sch:logicType>Groovy</sch:logicType>
-    <sch:methodBody>gitRepoManager.newBranch(request,context)</sch:methodBody>
+    <sch:methodBody>mdsGitRepoManager.newBranch(request,context)</sch:methodBody>
     <sch:processDefinition></sch:processDefinition>
     <sch:newStatus></sch:newStatus>
     <sch:versionMode>New Version</sch:versionMode>
