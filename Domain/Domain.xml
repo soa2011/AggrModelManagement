@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<sch:DomainTable xmlns:sch="http://aiaf.com/schemas" oid="14367612" name="Domain">
+<sch:DomainTable xmlns:sch="http://aiaf.com/schemas" oid="14370744" name="Domain">
     <sch:name>Domain</sch:name>
     <sch:domainType>REFERENCE</sch:domainType>
     <sch:description></sch:description>
