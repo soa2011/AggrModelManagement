@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<sch:Button xmlns:sch="http://aiaf.com/schemas" name="DeployModel">
+    <sch:seqIndex>17</sch:seqIndex>
+    <sch:name>DeployModel</sch:name>
+    <sch:label>DeployModel</sch:label>
+    <sch:behavior>ExecuteMethod</sch:behavior>
+    <sch:bmfTransactionName>DeployModel</sch:bmfTransactionName>
+    <sch:content></sch:content>
+    <sch:appliesTo></sch:appliesTo>
+    <sch:securityToken></sch:securityToken>
+    <sch:description></sch:description>
+    <sch:bmfTransaction isRef="true">DeployModel</sch:bmfTransaction>
+</sch:Button>

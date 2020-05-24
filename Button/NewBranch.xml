@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<sch:Button xmlns:sch="http://aiaf.com/schemas" name="NewBranch">
+    <sch:seqIndex>20</sch:seqIndex>
+    <sch:name>NewBranch</sch:name>
+    <sch:label>NewBranch</sch:label>
+    <sch:behavior>ExecuteMethod</sch:behavior>
+    <sch:bmfTransactionName>NewBranch</sch:bmfTransactionName>
+    <sch:content></sch:content>
+    <sch:appliesTo></sch:appliesTo>
+    <sch:securityToken></sch:securityToken>
+    <sch:description></sch:description>
+    <sch:bmfTransaction isRef="true">NewBranch</sch:bmfTransaction>
+</sch:Button>

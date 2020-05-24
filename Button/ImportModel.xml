@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<sch:Button xmlns:sch="http://aiaf.com/schemas" name="ImportModel">
+    <sch:seqIndex>25</sch:seqIndex>
+    <sch:name>ImportModel</sch:name>
+    <sch:label>Import Model</sch:label>
+    <sch:behavior>ExecuteJavaScript</sch:behavior>
+    <sch:bmfTransactionName></sch:bmfTransactionName>
+    <sch:content>importModel()</sch:content>
+    <sch:appliesTo></sch:appliesTo>
+    <sch:securityToken></sch:securityToken>
+    <sch:description></sch:description>
+</sch:Button>
