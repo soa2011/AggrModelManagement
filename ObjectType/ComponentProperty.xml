@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<sch:ObjectType xmlns:sch="http://aiaf.com/schemas" oid="14368000" name="ComponentProperty">
+<sch:ObjectType xmlns:sch="http://aiaf.com/schemas" oid="14371132" name="ComponentProperty">
     <sch:name>ComponentProperty</sch:name>
     <sch:tableType>Risk</sch:tableType>
     <sch:archetype>CONFIG</sch:archetype>
