@@ -534,16 +534,6 @@
     <sch:buttons>
         <sch:BmfPageButton>
             <sch:seqNo>3000</sch:seqNo>
-            <sch:buttonName>OpenInBrowser</sch:buttonName>
-            <sch:displayCondition></sch:displayCondition>
-            <sch:displayResource></sch:displayResource>
-            <sch:description></sch:description>
-            <sch:showButton>true</sch:showButton>
-            <sch:eventHandler></sch:eventHandler>
-            <sch:bmfButton isRef="true">OpenInBrowser</sch:bmfButton>
-        </sch:BmfPageButton>
-        <sch:BmfPageButton>
-            <sch:seqNo>3100</sch:seqNo>
             <sch:buttonName>DeployModel</sch:buttonName>
             <sch:displayCondition></sch:displayCondition>
             <sch:displayResource></sch:displayResource>
@@ -551,6 +541,15 @@
             <sch:showButton>true</sch:showButton>
             <sch:eventHandler></sch:eventHandler>
             <sch:bmfButton isRef="true">DeployModel</sch:bmfButton>
+        </sch:BmfPageButton>
+        <sch:BmfPageButton>
+            <sch:seqNo>3100</sch:seqNo>
+            <sch:buttonName>DeployModel2</sch:buttonName>
+            <sch:displayCondition></sch:displayCondition>
+            <sch:displayResource></sch:displayResource>
+            <sch:description></sch:description>
+            <sch:showButton>true</sch:showButton>
+            <sch:eventHandler></sch:eventHandler>
         </sch:BmfPageButton>
         <sch:BmfPageButton>
             <sch:seqNo>3200</sch:seqNo>
