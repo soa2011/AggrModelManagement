@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <sch:Button xmlns:sch="http://Baf.com/schemas" name="DiffVersion">
-    <sch:seqIndex>22</sch:seqIndex>
+    <sch:seqIndex>23</sch:seqIndex>
     <sch:name>DiffVersion</sch:name>
     <sch:label>DiffVersion</sch:label>
     <sch:behavior>ExecuteMethod</sch:behavior>

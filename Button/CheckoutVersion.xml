@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <sch:Button xmlns:sch="http://Baf.com/schemas" name="CheckoutVersion">
-    <sch:seqIndex>18</sch:seqIndex>
+    <sch:seqIndex>19</sch:seqIndex>
     <sch:name>CheckoutVersion</sch:name>
     <sch:label>CheckoutVersion</sch:label>
     <sch:behavior>ExecuteMethod</sch:behavior>

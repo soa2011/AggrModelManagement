@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <sch:Button xmlns:sch="http://Baf.com/schemas" name="TagVersion">
-    <sch:seqIndex>21</sch:seqIndex>
+    <sch:seqIndex>22</sch:seqIndex>
     <sch:name>TagVersion</sch:name>
     <sch:label>TagVersion</sch:label>
     <sch:behavior>ExecuteMethod</sch:behavior>

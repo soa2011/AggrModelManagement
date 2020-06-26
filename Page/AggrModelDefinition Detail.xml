@@ -550,6 +550,7 @@
             <sch:description></sch:description>
             <sch:showButton>true</sch:showButton>
             <sch:eventHandler></sch:eventHandler>
+            <sch:bmfButton isRef="true">DeployModel2</sch:bmfButton>
         </sch:BmfPageButton>
         <sch:BmfPageButton>
             <sch:seqNo>3200</sch:seqNo>
