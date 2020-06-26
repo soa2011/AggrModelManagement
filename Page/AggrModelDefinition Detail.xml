@@ -534,6 +534,16 @@
     <sch:buttons>
         <sch:BmfPageButton>
             <sch:seqNo>3000</sch:seqNo>
+            <sch:buttonName>EditAppModel</sch:buttonName>
+            <sch:displayCondition></sch:displayCondition>
+            <sch:displayResource></sch:displayResource>
+            <sch:description></sch:description>
+            <sch:showButton>true</sch:showButton>
+            <sch:eventHandler></sch:eventHandler>
+            <sch:bmfButton isRef="true">EditAppModel</sch:bmfButton>
+        </sch:BmfPageButton>
+        <sch:BmfPageButton>
+            <sch:seqNo>3050</sch:seqNo>
             <sch:buttonName>DeployModel</sch:buttonName>
             <sch:displayCondition></sch:displayCondition>
             <sch:displayResource></sch:displayResource>
