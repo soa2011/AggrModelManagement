@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<sch:PageDefinition xmlns:sch="http://aiaf.com/schemas" name="Domain Table Detail">
+<sch:PageDefinition xmlns:sch="http://Baf.com/schemas" name="Domain Table Detail">
     <sch:name>Domain Table Detail</sch:name>
     <sch:pageNumber></sch:pageNumber>
     <sch:pageType>Detail</sch:pageType>
@@ -176,6 +176,7 @@
             <sch:fieldLinkExpression></sch:fieldLinkExpression>
             <sch:filterCriteria></sch:filterCriteria>
             <sch:eventHandler></sch:eventHandler>
+            <sch:bmfDomain isRef="true">DomainType</sch:bmfDomain>
         </sch:BmfPageField>
         <sch:BmfPageField>
             <sch:name>ValueType</sch:name>
@@ -226,6 +227,7 @@
             <sch:fieldLinkExpression></sch:fieldLinkExpression>
             <sch:filterCriteria></sch:filterCriteria>
             <sch:eventHandler></sch:eventHandler>
+            <sch:bmfDomain isRef="true">ValueType</sch:bmfDomain>
         </sch:BmfPageField>
         <sch:BmfPageField>
             <sch:name>ValueSize</sch:name>

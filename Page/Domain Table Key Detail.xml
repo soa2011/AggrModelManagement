@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<sch:PageDefinition xmlns:sch="http://aiaf.com/schemas" name="Domain Table Key Detail">
+<sch:PageDefinition xmlns:sch="http://Baf.com/schemas" name="Domain Table Key Detail">
     <sch:name>Domain Table Key Detail</sch:name>
     <sch:pageNumber></sch:pageNumber>
     <sch:pageType>Detail</sch:pageType>
@@ -276,6 +276,7 @@
             <sch:fieldLinkExpression></sch:fieldLinkExpression>
             <sch:filterCriteria></sch:filterCriteria>
             <sch:eventHandler></sch:eventHandler>
+            <sch:bmfDomain isRef="true">DomainKeyType</sch:bmfDomain>
         </sch:BmfPageField>
         <sch:BmfPageField>
             <sch:name>KeySize</sch:name>

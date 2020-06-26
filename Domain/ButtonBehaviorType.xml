@@ -1,33 +1,39 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<sch:DomainTable xmlns:sch="http://aiaf.com/schemas" oid="14373920" name="ButtonBehaviorType">
+<sch:DomainTable xmlns:sch="http://Baf.com/schemas" name="ButtonBehaviorType">
     <sch:name>ButtonBehaviorType</sch:name>
     <sch:domainType>LIST_OF_VALUES</sch:domainType>
     <sch:description></sch:description>
+    <sch:domainKeys/>
     <sch:domainEntries>
         <sch:BmfDomainEntry>
             <sch:seqNumber>1</sch:seqNumber>
             <sch:displayValue>Execute JavaScript</sch:displayValue>
             <sch:dataValue>ExecuteJavaScript</sch:dataValue>
+            <sch:keyValues>{}</sch:keyValues>
         </sch:BmfDomainEntry>
         <sch:BmfDomainEntry>
             <sch:seqNumber>2</sch:seqNumber>
             <sch:displayValue>Execute Method</sch:displayValue>
             <sch:dataValue>ExecuteMethod</sch:dataValue>
+            <sch:keyValues>{}</sch:keyValues>
         </sch:BmfDomainEntry>
         <sch:BmfDomainEntry>
             <sch:seqNumber>3</sch:seqNumber>
             <sch:displayValue>Open Window</sch:displayValue>
             <sch:dataValue>OpenWindow</sch:dataValue>
+            <sch:keyValues>{}</sch:keyValues>
         </sch:BmfDomainEntry>
         <sch:BmfDomainEntry>
             <sch:seqNumber>4</sch:seqNumber>
             <sch:displayValue>Eval JavaScript</sch:displayValue>
             <sch:dataValue>EvalJavaScript</sch:dataValue>
+            <sch:keyValues>{}</sch:keyValues>
         </sch:BmfDomainEntry>
         <sch:BmfDomainEntry>
             <sch:seqNumber>5</sch:seqNumber>
             <sch:displayValue>Workflow</sch:displayValue>
             <sch:dataValue>Workflow</sch:dataValue>
+            <sch:keyValues>{}</sch:keyValues>
         </sch:BmfDomainEntry>
     </sch:domainEntries>
 </sch:DomainTable>

@@ -1,123 +1,147 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<sch:DomainTable xmlns:sch="http://aiaf.com/schemas" oid="14373960" name="AggrRootType">
+<sch:DomainTable xmlns:sch="http://Baf.com/schemas" name="AggrRootType">
     <sch:name>AggrRootType</sch:name>
     <sch:domainType>LIST_OF_VALUES</sch:domainType>
     <sch:description></sch:description>
+    <sch:domainKeys/>
     <sch:domainEntries>
         <sch:BmfDomainEntry>
             <sch:seqNumber>1</sch:seqNumber>
             <sch:displayValue>Account Model</sch:displayValue>
             <sch:dataValue>AccountManagement</sch:dataValue>
+            <sch:keyValues>{}</sch:keyValues>
         </sch:BmfDomainEntry>
         <sch:BmfDomainEntry>
             <sch:seqNumber>2</sch:seqNumber>
             <sch:displayValue>Administration Model</sch:displayValue>
             <sch:dataValue>AdministrationModule</sch:dataValue>
+            <sch:keyValues>{}</sch:keyValues>
         </sch:BmfDomainEntry>
         <sch:BmfDomainEntry>
             <sch:seqNumber>3</sch:seqNumber>
             <sch:displayValue>Agent Model</sch:displayValue>
             <sch:dataValue>AgentManagement</sch:dataValue>
+            <sch:keyValues>{}</sch:keyValues>
         </sch:BmfDomainEntry>
         <sch:BmfDomainEntry>
             <sch:seqNumber>4</sch:seqNumber>
             <sch:displayValue>AgreementManagement Model</sch:displayValue>
             <sch:dataValue>AgreementManagement</sch:dataValue>
+            <sch:keyValues>{}</sch:keyValues>
         </sch:BmfDomainEntry>
         <sch:BmfDomainEntry>
             <sch:seqNumber>5</sch:seqNumber>
             <sch:displayValue>AMS Model</sch:displayValue>
             <sch:dataValue>AMSManagement</sch:dataValue>
+            <sch:keyValues>{}</sch:keyValues>
         </sch:BmfDomainEntry>
         <sch:BmfDomainEntry>
             <sch:seqNumber>6</sch:seqNumber>
             <sch:displayValue>Batch Model</sch:displayValue>
             <sch:dataValue>BatchModule</sch:dataValue>
+            <sch:keyValues>{}</sch:keyValues>
         </sch:BmfDomainEntry>
         <sch:BmfDomainEntry>
             <sch:seqNumber>7</sch:seqNumber>
             <sch:displayValue>BillingManagement Model</sch:displayValue>
             <sch:dataValue>BillingManagement</sch:dataValue>
+            <sch:keyValues>{}</sch:keyValues>
         </sch:BmfDomainEntry>
         <sch:BmfDomainEntry>
             <sch:seqNumber>8</sch:seqNumber>
             <sch:displayValue>BMF Base Admin Model</sch:displayValue>
             <sch:dataValue>BmfBaseAdmin</sch:dataValue>
+            <sch:keyValues>{}</sch:keyValues>
         </sch:BmfDomainEntry>
         <sch:BmfDomainEntry>
             <sch:seqNumber>9</sch:seqNumber>
             <sch:displayValue>BmfAggrModel Management Model</sch:displayValue>
             <sch:dataValue>AggrModelManagement</sch:dataValue>
+            <sch:keyValues>{}</sch:keyValues>
         </sch:BmfDomainEntry>
         <sch:BmfDomainEntry>
             <sch:seqNumber>10</sch:seqNumber>
             <sch:displayValue>Client Model</sch:displayValue>
             <sch:dataValue>Client</sch:dataValue>
+            <sch:keyValues>{}</sch:keyValues>
         </sch:BmfDomainEntry>
         <sch:BmfDomainEntry>
             <sch:seqNumber>11</sch:seqNumber>
             <sch:displayValue>DMS Model</sch:displayValue>
             <sch:dataValue>DMSManagement</sch:dataValue>
+            <sch:keyValues>{}</sch:keyValues>
         </sch:BmfDomainEntry>
         <sch:BmfDomainEntry>
             <sch:seqNumber>12</sch:seqNumber>
             <sch:displayValue>ContentManagement Model</sch:displayValue>
             <sch:dataValue>DocumentManagement</sch:dataValue>
+            <sch:keyValues>{}</sch:keyValues>
         </sch:BmfDomainEntry>
         <sch:BmfDomainEntry>
             <sch:seqNumber>13</sch:seqNumber>
             <sch:displayValue>Integration Model</sch:displayValue>
             <sch:dataValue>IntegrationModule</sch:dataValue>
+            <sch:keyValues>{}</sch:keyValues>
         </sch:BmfDomainEntry>
         <sch:BmfDomainEntry>
             <sch:seqNumber>14</sch:seqNumber>
             <sch:displayValue>ISG Model</sch:displayValue>
             <sch:dataValue>IsgIntegration</sch:dataValue>
+            <sch:keyValues>{}</sch:keyValues>
         </sch:BmfDomainEntry>
         <sch:BmfDomainEntry>
             <sch:seqNumber>15</sch:seqNumber>
             <sch:displayValue>Product Management Model</sch:displayValue>
             <sch:dataValue>ProductManagement</sch:dataValue>
+            <sch:keyValues>{}</sch:keyValues>
         </sch:BmfDomainEntry>
         <sch:BmfDomainEntry>
             <sch:seqNumber>16</sch:seqNumber>
             <sch:displayValue>ReconManagement Model</sch:displayValue>
             <sch:dataValue>ReconManagement</sch:dataValue>
+            <sch:keyValues>{}</sch:keyValues>
         </sch:BmfDomainEntry>
         <sch:BmfDomainEntry>
             <sch:seqNumber>17</sch:seqNumber>
             <sch:displayValue>RuleManagement Model</sch:displayValue>
             <sch:dataValue>RuleManagement</sch:dataValue>
+            <sch:keyValues>{}</sch:keyValues>
         </sch:BmfDomainEntry>
         <sch:BmfDomainEntry>
             <sch:seqNumber>18</sch:seqNumber>
             <sch:displayValue>Security Model</sch:displayValue>
             <sch:dataValue>Security</sch:dataValue>
+            <sch:keyValues>{}</sch:keyValues>
         </sch:BmfDomainEntry>
         <sch:BmfDomainEntry>
             <sch:seqNumber>19</sch:seqNumber>
             <sch:displayValue>System Monitor Model</sch:displayValue>
             <sch:dataValue>SystemMonitor</sch:dataValue>
+            <sch:keyValues>{}</sch:keyValues>
         </sch:BmfDomainEntry>
         <sch:BmfDomainEntry>
             <sch:seqNumber>20</sch:seqNumber>
             <sch:displayValue>UserSetup Model</sch:displayValue>
             <sch:dataValue>UserSetup</sch:dataValue>
+            <sch:keyValues>{}</sch:keyValues>
         </sch:BmfDomainEntry>
         <sch:BmfDomainEntry>
             <sch:seqNumber>21</sch:seqNumber>
             <sch:displayValue>WipSession Model</sch:displayValue>
             <sch:dataValue>WipSession</sch:dataValue>
+            <sch:keyValues>{}</sch:keyValues>
         </sch:BmfDomainEntry>
         <sch:BmfDomainEntry>
             <sch:seqNumber>22</sch:seqNumber>
             <sch:displayValue>WorkCenter Model</sch:displayValue>
             <sch:dataValue>UserWorkCenter</sch:dataValue>
+            <sch:keyValues>{}</sch:keyValues>
         </sch:BmfDomainEntry>
         <sch:BmfDomainEntry>
             <sch:seqNumber>23</sch:seqNumber>
             <sch:displayValue>Workflow Model</sch:displayValue>
             <sch:dataValue>WorkflowSetup</sch:dataValue>
+            <sch:keyValues>{}</sch:keyValues>
         </sch:BmfDomainEntry>
     </sch:domainEntries>
 </sch:DomainTable>

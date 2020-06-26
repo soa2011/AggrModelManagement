@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<sch:PageDefinition xmlns:sch="http://aiaf.com/schemas" name="Business Transaction Detail">
+<sch:PageDefinition xmlns:sch="http://Baf.com/schemas" name="Business Transaction Detail">
     <sch:name>Business Transaction Detail</sch:name>
     <sch:pageNumber></sch:pageNumber>
     <sch:pageType>Detail</sch:pageType>
@@ -176,6 +176,7 @@
             <sch:fieldLinkExpression></sch:fieldLinkExpression>
             <sch:filterCriteria></sch:filterCriteria>
             <sch:eventHandler></sch:eventHandler>
+            <sch:bmfDomain isRef="true">TransType</sch:bmfDomain>
         </sch:BmfPageField>
         <sch:BmfPageField>
             <sch:name>LogicType</sch:name>
@@ -226,6 +227,7 @@
             <sch:fieldLinkExpression></sch:fieldLinkExpression>
             <sch:filterCriteria></sch:filterCriteria>
             <sch:eventHandler></sch:eventHandler>
+            <sch:bmfDomain isRef="true">LogicType</sch:bmfDomain>
         </sch:BmfPageField>
         <sch:BmfPageField>
             <sch:name>MethodBody</sch:name>
@@ -326,6 +328,7 @@
             <sch:fieldLinkExpression></sch:fieldLinkExpression>
             <sch:filterCriteria></sch:filterCriteria>
             <sch:eventHandler></sch:eventHandler>
+            <sch:bmfDomain isRef="true">PageDefinition</sch:bmfDomain>
         </sch:BmfPageField>
         <sch:BmfPageField>
             <sch:name>ChoiceOnClientEditor</sch:name>
@@ -676,6 +679,7 @@
             <sch:fieldLinkExpression></sch:fieldLinkExpression>
             <sch:filterCriteria></sch:filterCriteria>
             <sch:eventHandler></sch:eventHandler>
+            <sch:bmfDomain isRef="true">VersionMode</sch:bmfDomain>
         </sch:BmfPageField>
         <sch:BmfPageField>
             <sch:name>ExecutionMode</sch:name>
@@ -726,6 +730,7 @@
             <sch:fieldLinkExpression></sch:fieldLinkExpression>
             <sch:filterCriteria></sch:filterCriteria>
             <sch:eventHandler></sch:eventHandler>
+            <sch:bmfDomain isRef="true">ExecutionMode</sch:bmfDomain>
         </sch:BmfPageField>
         <sch:BmfPageField>
             <sch:name>BusinessName</sch:name>

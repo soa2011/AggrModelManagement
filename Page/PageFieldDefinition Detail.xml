@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<sch:PageDefinition xmlns:sch="http://aiaf.com/schemas" name="PageFieldDefinition Detail">
+<sch:PageDefinition xmlns:sch="http://Baf.com/schemas" name="PageFieldDefinition Detail">
     <sch:name>PageFieldDefinition Detail</sch:name>
     <sch:pageNumber></sch:pageNumber>
     <sch:pageType>Detail</sch:pageType>
@@ -126,6 +126,7 @@
             <sch:fieldLinkExpression></sch:fieldLinkExpression>
             <sch:filterCriteria></sch:filterCriteria>
             <sch:eventHandler></sch:eventHandler>
+            <sch:bmfDomain isRef="true">FieldType</sch:bmfDomain>
         </sch:BmfPageField>
         <sch:BmfPageField>
             <sch:name>FieldVariableXPath</sch:name>
@@ -926,6 +927,7 @@
             <sch:fieldLinkExpression></sch:fieldLinkExpression>
             <sch:filterCriteria></sch:filterCriteria>
             <sch:eventHandler></sch:eventHandler>
+            <sch:bmfDomain isRef="true">YesNo</sch:bmfDomain>
         </sch:BmfPageField>
         <sch:BmfPageField>
             <sch:name>SortOrder</sch:name>
@@ -976,6 +978,7 @@
             <sch:fieldLinkExpression></sch:fieldLinkExpression>
             <sch:filterCriteria></sch:filterCriteria>
             <sch:eventHandler></sch:eventHandler>
+            <sch:bmfDomain isRef="true">SortDirection</sch:bmfDomain>
         </sch:BmfPageField>
         <sch:BmfPageField>
             <sch:name>RefTargetType</sch:name>
@@ -1076,6 +1079,7 @@
             <sch:fieldLinkExpression></sch:fieldLinkExpression>
             <sch:filterCriteria></sch:filterCriteria>
             <sch:eventHandler></sch:eventHandler>
+            <sch:bmfDomain isRef="true">ObjectType</sch:bmfDomain>
         </sch:BmfPageField>
         <sch:BmfPageField>
             <sch:name>Dependency</sch:name>
@@ -2026,6 +2030,7 @@
             <sch:fieldLinkExpression></sch:fieldLinkExpression>
             <sch:filterCriteria></sch:filterCriteria>
             <sch:eventHandler></sch:eventHandler>
+            <sch:bmfDomain isRef="true">YesNo</sch:bmfDomain>
         </sch:BmfPageField>
         <sch:BmfPageField>
             <sch:name>UniqueValueIndicator</sch:name>
@@ -2076,6 +2081,7 @@
             <sch:fieldLinkExpression></sch:fieldLinkExpression>
             <sch:filterCriteria></sch:filterCriteria>
             <sch:eventHandler></sch:eventHandler>
+            <sch:bmfDomain isRef="true">YesNo</sch:bmfDomain>
         </sch:BmfPageField>
         <sch:BmfPageField>
             <sch:name>Sortable</sch:name>
@@ -2126,6 +2132,7 @@
             <sch:fieldLinkExpression></sch:fieldLinkExpression>
             <sch:filterCriteria></sch:filterCriteria>
             <sch:eventHandler></sch:eventHandler>
+            <sch:bmfDomain isRef="true">YesNo</sch:bmfDomain>
         </sch:BmfPageField>
         <sch:BmfPageField>
             <sch:name>SortOrder</sch:name>
@@ -2176,6 +2183,7 @@
             <sch:fieldLinkExpression></sch:fieldLinkExpression>
             <sch:filterCriteria></sch:filterCriteria>
             <sch:eventHandler></sch:eventHandler>
+            <sch:bmfDomain isRef="true">SortDirection</sch:bmfDomain>
         </sch:BmfPageField>
         <sch:BmfPageField>
             <sch:name>FilterType</sch:name>
@@ -2226,6 +2234,7 @@
             <sch:fieldLinkExpression></sch:fieldLinkExpression>
             <sch:filterCriteria></sch:filterCriteria>
             <sch:eventHandler></sch:eventHandler>
+            <sch:bmfDomain isRef="true">FilterTypeDomain</sch:bmfDomain>
         </sch:BmfPageField>
         <sch:BmfPageField>
             <sch:name>Constraints</sch:name>
