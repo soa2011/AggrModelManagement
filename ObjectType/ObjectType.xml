@@ -180,7 +180,7 @@
         <sch:BmfObjectField>
             <sch:name>Archetype</sch:name>
             <sch:dataType>Char</sch:dataType>
-            <sch:enumName>TableArchetype</sch:enumName>
+            <sch:enumName></sch:enumName>
             <sch:length>32</sch:length>
             <sch:scale></sch:scale>
             <sch:autoIncrement>false</sch:autoIncrement>
