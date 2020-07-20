@@ -622,5 +622,15 @@
             <sch:eventHandler></sch:eventHandler>
             <sch:bmfButton isRef="true">MergeBranch</sch:bmfButton>
         </sch:BmfPageButton>
+        <sch:BmfPageButton>
+            <sch:seqNo>5000</sch:seqNo>
+            <sch:buttonName>SetupSecurity</sch:buttonName>
+            <sch:displayCondition></sch:displayCondition>
+            <sch:displayResource></sch:displayResource>
+            <sch:description></sch:description>
+            <sch:showButton>true</sch:showButton>
+            <sch:eventHandler></sch:eventHandler>
+            <sch:bmfButton isRef="true">SetupSecurity</sch:bmfButton>
+        </sch:BmfPageButton>
     </sch:buttons>
 </sch:PageDefinition>

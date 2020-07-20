@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<sch:Button xmlns:sch="http://Baf.com/schemas" name="SetupSecurity">
+    <sch:seqIndex>25</sch:seqIndex>
+    <sch:name>SetupSecurity</sch:name>
+    <sch:label>SetupSecurity</sch:label>
+    <sch:behavior>ExecuteMethod</sch:behavior>
+    <sch:bmfTransactionName>SetupSecurity</sch:bmfTransactionName>
+    <sch:content></sch:content>
+    <sch:appliesTo></sch:appliesTo>
+    <sch:securityToken></sch:securityToken>
+    <sch:description></sch:description>
+    <sch:bmfTransaction isRef="true">SetupSecurity</sch:bmfTransaction>
+</sch:Button>
