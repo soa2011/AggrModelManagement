@@ -179,9 +179,9 @@
             <sch:description></sch:description>
         </sch:BmfObjectField>
         <sch:BmfObjectField>
-            <sch:name>ArcheType</sch:name>
+            <sch:name>DataKind</sch:name>
             <sch:dataType>Char</sch:dataType>
-            <sch:enumName>TableArchetype</sch:enumName>
+            <sch:enumName>DataKind</sch:enumName>
             <sch:length>32</sch:length>
             <sch:scale></sch:scale>
             <sch:autoIncrement>false</sch:autoIncrement>

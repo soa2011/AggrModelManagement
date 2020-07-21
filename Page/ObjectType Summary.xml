@@ -278,7 +278,7 @@
             <sch:eventHandler></sch:eventHandler>
         </sch:BmfPageField>
         <sch:BmfPageField>
-            <sch:name>ArcheType</sch:name>
+            <sch:name>DataKind</sch:name>
             <sch:seqNumber>250</sch:seqNumber>
             <sch:tabIndex>0</sch:tabIndex>
             <sch:tabPage></sch:tabPage>
@@ -286,7 +286,7 @@
             <sch:fieldType>Text</sch:fieldType>
             <sch:widgetType2></sch:widgetType2>
             <sch:refTargetType></sch:refTargetType>
-            <sch:label>ArcheType</sch:label>
+            <sch:label>DataKind</sch:label>
             <sch:controllingParameters></sch:controllingParameters>
             <sch:domainName></sch:domainName>
             <sch:dynaDomain></sch:dynaDomain>
