@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<sch:ObjectType xmlns:sch="http://Baf.com/schemas" name="BusinessTransaction">
-    <sch:name>BusinessTransaction</sch:name>
+<sch:ObjectType xmlns:sch="http://Baf.com/schemas" name="BmfTransaction">
+    <sch:name>BmfTransaction</sch:name>
     <sch:tableType>Risk</sch:tableType>
     <sch:archeType>NORMAL</sch:archeType>
     <sch:parentTypeName></sch:parentTypeName>
@@ -12,10 +12,10 @@
     <sch:bmfRelationships>
         <sch:BmfObjectRelationship>
             <sch:type>REF_TO_MANY</sch:type>
-            <sch:name>BusinessTransactionRule</sch:name>
+            <sch:name>BmfTransactionRule</sch:name>
             <sch:displayName></sch:displayName>
             <sch:description></sch:description>
-            <sch:relatedObjectType>BusinessTransactionRule</sch:relatedObjectType>
+            <sch:relatedObjectType>BmfTransactionRule</sch:relatedObjectType>
             <sch:joinField></sch:joinField>
             <sch:lowerBound>0</sch:lowerBound>
             <sch:upperBound>-1</sch:upperBound>

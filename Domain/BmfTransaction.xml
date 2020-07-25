@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<sch:DomainTable xmlns:sch="http://Baf.com/schemas" name="BusinessTransaction">
-    <sch:name>BusinessTransaction</sch:name>
+<sch:DomainTable xmlns:sch="http://Baf.com/schemas" name="BmfTransaction">
+    <sch:name>BmfTransaction</sch:name>
     <sch:domainType>REFERENCE</sch:domainType>
     <sch:description>%s</sch:description>
     <sch:domainKeys>
@@ -8,8 +8,8 @@
             <sch:seqNo>1</sch:seqNo>
             <sch:domainTableId></sch:domainTableId>
             <sch:domainTableReference></sch:domainTableReference>
-            <sch:name>BusinessTransaction</sch:name>
-            <sch:columnName>BusinessTransaction</sch:columnName>
+            <sch:name>BmfTransaction</sch:name>
+            <sch:columnName>BmfTransaction</sch:columnName>
             <sch:type></sch:type>
             <sch:keySize></sch:keySize>
             <sch:description></sch:description>

@@ -26,7 +26,7 @@
             <sch:name>MethodRef</sch:name>
             <sch:displayName></sch:displayName>
             <sch:description></sch:description>
-            <sch:relatedObjectType>BusinessTransaction</sch:relatedObjectType>
+            <sch:relatedObjectType>BmfTransaction</sch:relatedObjectType>
             <sch:joinField></sch:joinField>
             <sch:lowerBound>0</sch:lowerBound>
             <sch:upperBound>1</sch:upperBound>

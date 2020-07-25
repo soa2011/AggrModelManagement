@@ -290,7 +290,7 @@
             <sch:refTargetType></sch:refTargetType>
             <sch:label>Method</sch:label>
             <sch:controllingParameters></sch:controllingParameters>
-            <sch:domainName>BusinessTransaction</sch:domainName>
+            <sch:domainName>BmfTransaction</sch:domainName>
             <sch:dynaDomain></sch:dynaDomain>
             <sch:dependency></sch:dependency>
             <sch:defaultValue></sch:defaultValue>
@@ -328,7 +328,7 @@
             <sch:fieldLinkExpression></sch:fieldLinkExpression>
             <sch:filterCriteria></sch:filterCriteria>
             <sch:eventHandler></sch:eventHandler>
-            <sch:bmfDomain isRef="true">BusinessTransaction</sch:bmfDomain>
+            <sch:bmfDomain isRef="true">BmfTransaction</sch:bmfDomain>
         </sch:BmfPageField>
         <sch:BmfPageField>
             <sch:name>Content</sch:name>

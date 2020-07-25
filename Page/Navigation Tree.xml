@@ -865,10 +865,10 @@
             <sch:description></sch:description>
         </sch:BmfTreeNode>
         <sch:BmfTreeNode>
-            <sch:tableName>BusinessRule</sch:tableName>
+            <sch:tableName>BmfRule</sch:tableName>
             <sch:type>Collection</sch:type>
             <sch:seqIndex>4100</sch:seqIndex>
-            <sch:format>BusinessRules(%s)</sch:format>
+            <sch:format>BmfRules(%s)</sch:format>
             <sch:columns>#count</sch:columns>
             <sch:action></sch:action>
             <sch:quoteDisplay>true</sch:quoteDisplay>
@@ -876,7 +876,7 @@
             <sch:description></sch:description>
         </sch:BmfTreeNode>
         <sch:BmfTreeNode>
-            <sch:tableName>BusinessRule</sch:tableName>
+            <sch:tableName>BmfRule</sch:tableName>
             <sch:type>Item</sch:type>
             <sch:seqIndex>4140</sch:seqIndex>
             <sch:format>%s %s</sch:format>
@@ -887,10 +887,10 @@
             <sch:description></sch:description>
         </sch:BmfTreeNode>
         <sch:BmfTreeNode>
-            <sch:tableName>BusinessRuleLine</sch:tableName>
+            <sch:tableName>BmfRuleLine</sch:tableName>
             <sch:type>Collection</sch:type>
             <sch:seqIndex>4170</sch:seqIndex>
-            <sch:format>BusinessRuleLines(%s)</sch:format>
+            <sch:format>BmfRuleLines(%s)</sch:format>
             <sch:columns>#count</sch:columns>
             <sch:action></sch:action>
             <sch:quoteDisplay>true</sch:quoteDisplay>
@@ -898,7 +898,7 @@
             <sch:description></sch:description>
         </sch:BmfTreeNode>
         <sch:BmfTreeNode>
-            <sch:tableName>BusinessRuleLine</sch:tableName>
+            <sch:tableName>BmfRuleLine</sch:tableName>
             <sch:type>Item</sch:type>
             <sch:seqIndex>4200</sch:seqIndex>
             <sch:format>%s</sch:format>
@@ -909,10 +909,10 @@
             <sch:description></sch:description>
         </sch:BmfTreeNode>
         <sch:BmfTreeNode>
-            <sch:tableName>BusinessTransaction</sch:tableName>
+            <sch:tableName>BmfTransaction</sch:tableName>
             <sch:type>Collection</sch:type>
             <sch:seqIndex>4300</sch:seqIndex>
-            <sch:format>BusinessTransactions(%s)</sch:format>
+            <sch:format>BmfTransactions(%s)</sch:format>
             <sch:columns>#count</sch:columns>
             <sch:action></sch:action>
             <sch:quoteDisplay>true</sch:quoteDisplay>
@@ -920,7 +920,7 @@
             <sch:description></sch:description>
         </sch:BmfTreeNode>
         <sch:BmfTreeNode>
-            <sch:tableName>BusinessTransaction</sch:tableName>
+            <sch:tableName>BmfTransaction</sch:tableName>
             <sch:type>Item</sch:type>
             <sch:seqIndex>4400</sch:seqIndex>
             <sch:format>%s</sch:format>
@@ -931,10 +931,10 @@
             <sch:description></sch:description>
         </sch:BmfTreeNode>
         <sch:BmfTreeNode>
-            <sch:tableName>BusinessTransactionRule</sch:tableName>
+            <sch:tableName>BmfTransactionRule</sch:tableName>
             <sch:type>Collection</sch:type>
             <sch:seqIndex>4500</sch:seqIndex>
-            <sch:format>BusinessTransactionRules(%s)</sch:format>
+            <sch:format>BmfTransactionRules(%s)</sch:format>
             <sch:columns>#count</sch:columns>
             <sch:action></sch:action>
             <sch:quoteDisplay>true</sch:quoteDisplay>
@@ -942,7 +942,7 @@
             <sch:description></sch:description>
         </sch:BmfTreeNode>
         <sch:BmfTreeNode>
-            <sch:tableName>BusinessTransactionRule</sch:tableName>
+            <sch:tableName>BmfTransactionRule</sch:tableName>
             <sch:type>Item</sch:type>
             <sch:seqIndex>4600</sch:seqIndex>
             <sch:format>%s</sch:format>

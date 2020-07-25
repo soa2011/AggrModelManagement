@@ -6,7 +6,7 @@
     <sch:pageCondition></sch:pageCondition>
     <sch:title></sch:title>
     <sch:seqNumber>2500</sch:seqNumber>
-    <sch:tableName>BusinessRule</sch:tableName>
+    <sch:tableName>BmfRule</sch:tableName>
     <sch:quoteDisplay>true</sch:quoteDisplay>
     <sch:labelColWidth>200</sch:labelColWidth>
     <sch:valueColWidth>300</sch:valueColWidth>
@@ -25,7 +25,7 @@
     <sch:description></sch:description>
     <sch:clientSideController></sch:clientSideController>
     <sch:serverSideController></sch:serverSideController>
-    <sch:objectType isRef="true">BusinessRule</sch:objectType>
+    <sch:objectType isRef="true">BmfRule</sch:objectType>
     <sch:fields>
         <sch:BmfPageField>
             <sch:name>Name</sch:name>
