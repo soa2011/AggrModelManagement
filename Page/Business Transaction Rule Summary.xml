@@ -29,7 +29,7 @@
     <sch:fields>
         <sch:BmfPageField>
             <sch:name>AllowableState</sch:name>
-            <sch:seqNumber>100</sch:seqNumber>
+            <sch:seqNumber>700</sch:seqNumber>
             <sch:tabIndex>0</sch:tabIndex>
             <sch:tabPage></sch:tabPage>
             <sch:pageAreaName></sch:pageAreaName>
@@ -79,7 +79,7 @@
         </sch:BmfPageField>
         <sch:BmfPageField>
             <sch:name>NewStatus</sch:name>
-            <sch:seqNumber>200</sch:seqNumber>
+            <sch:seqNumber>800</sch:seqNumber>
             <sch:tabIndex>0</sch:tabIndex>
             <sch:tabPage></sch:tabPage>
             <sch:pageAreaName></sch:pageAreaName>
@@ -129,7 +129,7 @@
         </sch:BmfPageField>
         <sch:BmfPageField>
             <sch:name>LogicType</sch:name>
-            <sch:seqNumber>250</sch:seqNumber>
+            <sch:seqNumber>900</sch:seqNumber>
             <sch:tabIndex>0</sch:tabIndex>
             <sch:tabPage></sch:tabPage>
             <sch:pageAreaName></sch:pageAreaName>
@@ -179,7 +179,7 @@
         </sch:BmfPageField>
         <sch:BmfPageField>
             <sch:name>Description</sch:name>
-            <sch:seqNumber>300</sch:seqNumber>
+            <sch:seqNumber>1000</sch:seqNumber>
             <sch:tabIndex>0</sch:tabIndex>
             <sch:tabPage></sch:tabPage>
             <sch:pageAreaName></sch:pageAreaName>

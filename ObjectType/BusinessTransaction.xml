@@ -85,10 +85,10 @@
             <sch:description></sch:description>
         </sch:BmfObjectField>
         <sch:BmfObjectField>
-            <sch:name>ChoiceOnClientEditor</sch:name>
+            <sch:name>TargetObjectType</sch:name>
             <sch:dataType>Char</sch:dataType>
             <sch:enumName></sch:enumName>
-            <sch:length>32</sch:length>
+            <sch:length>64</sch:length>
             <sch:scale></sch:scale>
             <sch:autoIncrement>false</sch:autoIncrement>
             <sch:calculated>false</sch:calculated>
@@ -99,7 +99,7 @@
             <sch:description></sch:description>
         </sch:BmfObjectField>
         <sch:BmfObjectField>
-            <sch:name>ChoiceOnPolicyEditor</sch:name>
+            <sch:name>RefreshMode</sch:name>
             <sch:dataType>Char</sch:dataType>
             <sch:enumName></sch:enumName>
             <sch:length>32</sch:length>
