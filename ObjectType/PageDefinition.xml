@@ -3,7 +3,7 @@
     <sch:name>PageDefinition</sch:name>
     <sch:tableType>Risk</sch:tableType>
     <sch:archeType>CONFIG</sch:archeType>
-    <sch:parentTypeName></sch:parentTypeName>
+    <sch:parentTypeName>AggrModelManagement</sch:parentTypeName>
     <sch:superTypeName></sch:superTypeName>
     <sch:accessMode>TableDirect</sch:accessMode>
     <sch:primaryField></sch:primaryField>

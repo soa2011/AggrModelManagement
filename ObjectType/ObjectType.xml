@@ -3,7 +3,7 @@
     <sch:name>ObjectType</sch:name>
     <sch:tableType>Risk</sch:tableType>
     <sch:archeType>NORMAL</sch:archeType>
-    <sch:parentTypeName></sch:parentTypeName>
+    <sch:parentTypeName>AggrModelManagement</sch:parentTypeName>
     <sch:superTypeName></sch:superTypeName>
     <sch:accessMode>TableDirect</sch:accessMode>
     <sch:primaryField></sch:primaryField>
@@ -89,7 +89,7 @@
         </sch:BmfObjectRelationship>
         <sch:BmfObjectRelationship>
             <sch:type>REF_TO_ONE</sch:type>
-            <sch:name>Parent</sch:name>
+            <sch:name>ParentTypeId</sch:name>
             <sch:displayName></sch:displayName>
             <sch:description></sch:description>
             <sch:relatedObjectType>ObjectType</sch:relatedObjectType>
@@ -193,7 +193,7 @@
             <sch:description></sch:description>
         </sch:BmfObjectField>
         <sch:BmfObjectField>
-            <sch:name>ParentName</sch:name>
+            <sch:name>ParentTypeName</sch:name>
             <sch:dataType>Char</sch:dataType>
             <sch:enumName></sch:enumName>
             <sch:length>256</sch:length>
@@ -323,6 +323,20 @@
             <sch:dataType>Char</sch:dataType>
             <sch:enumName></sch:enumName>
             <sch:length>1024</sch:length>
+            <sch:scale></sch:scale>
+            <sch:autoIncrement>false</sch:autoIncrement>
+            <sch:calculated>false</sch:calculated>
+            <sch:encrypted>false</sch:encrypted>
+            <sch:seqStart>0</sch:seqStart>
+            <sch:seqPattern></sch:seqPattern>
+            <sch:calcExpr></sch:calcExpr>
+            <sch:description></sch:description>
+        </sch:BmfObjectField>
+        <sch:BmfObjectField>
+            <sch:name>SuperTypeName</sch:name>
+            <sch:dataType>Char</sch:dataType>
+            <sch:enumName></sch:enumName>
+            <sch:length>256</sch:length>
             <sch:scale></sch:scale>
             <sch:autoIncrement>false</sch:autoIncrement>
             <sch:calculated>false</sch:calculated>
