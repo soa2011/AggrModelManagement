@@ -49,7 +49,7 @@
             <sch:description></sch:description>
         </sch:BmfObjectField>
         <sch:BmfObjectField>
-            <sch:name>TableName</sch:name>
+            <sch:name>ObjectTypeName</sch:name>
             <sch:dataType>Char</sch:dataType>
             <sch:enumName></sch:enumName>
             <sch:length>256</sch:length>
@@ -147,9 +147,9 @@
             <sch:description></sch:description>
         </sch:BmfObjectField>
         <sch:BmfObjectField>
-            <sch:name>ReferenceName</sch:name>
+            <sch:name>RuleLanguage</sch:name>
             <sch:dataType>Char</sch:dataType>
-            <sch:enumName></sch:enumName>
+            <sch:enumName>RuleLanguage</sch:enumName>
             <sch:length>256</sch:length>
             <sch:scale></sch:scale>
             <sch:autoIncrement>false</sch:autoIncrement>
@@ -161,7 +161,7 @@
             <sch:description></sch:description>
         </sch:BmfObjectField>
         <sch:BmfObjectField>
-            <sch:name>ReferenceNumber</sch:name>
+            <sch:name>FieldName</sch:name>
             <sch:dataType>Char</sch:dataType>
             <sch:enumName></sch:enumName>
             <sch:length>256</sch:length>
@@ -231,4 +231,5 @@
             <sch:description></sch:description>
         </sch:BmfObjectField>
     </sch:bmfFields>
+    <sch:bmfRules/>
 </sch:ObjectType>
