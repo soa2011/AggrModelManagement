@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <sch:Button xmlns:sch="http://Baf.com/schemas" name="EditAppModel">
-    <sch:seqIndex>35</sch:seqIndex>
+    <sch:seqIndex>34</sch:seqIndex>
     <sch:name>EditAppModel</sch:name>
     <sch:label>EditAppModel</sch:label>
     <sch:behavior>ExecuteJavaScript</sch:behavior>

@@ -5,7 +5,7 @@
     <sch:businessName></sch:businessName>
     <sch:label>GeneratePage</sch:label>
     <sch:logicType>Groovy</sch:logicType>
-    <sch:methodBody>bmfAggrModelManager.generatePage(request,context)</sch:methodBody>
+    <sch:methodBody>bmfAggrPageGenerator.generatePage2(request,context)</sch:methodBody>
     <sch:processDefinition></sch:processDefinition>
     <sch:newStatus></sch:newStatus>
     <sch:versionMode>New Version</sch:versionMode>

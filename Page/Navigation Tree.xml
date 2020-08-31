@@ -307,7 +307,7 @@
             <sch:tableName>ObjectProperty</sch:tableName>
             <sch:type>Item</sch:type>
             <sch:seqIndex>3240</sch:seqIndex>
-            <sch:format>%s %s</sch:format>
+            <sch:format>%s - %s</sch:format>
             <sch:columns>Name,DataType</sch:columns>
             <sch:action>No</sch:action>
             <sch:quoteDisplay>false</sch:quoteDisplay>

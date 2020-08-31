@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <sch:Button xmlns:sch="http://Baf.com/schemas" name="MergeBranch">
-    <sch:seqIndex>24</sch:seqIndex>
+    <sch:seqIndex>23</sch:seqIndex>
     <sch:name>MergeBranch</sch:name>
     <sch:label>MergeBranch</sch:label>
     <sch:behavior>ExecuteMethod</sch:behavior>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <sch:Button xmlns:sch="http://Baf.com/schemas" name="NewBranch">
-    <sch:seqIndex>21</sch:seqIndex>
+    <sch:seqIndex>20</sch:seqIndex>
     <sch:name>NewBranch</sch:name>
     <sch:label>NewBranch</sch:label>
     <sch:behavior>ExecuteMethod</sch:behavior>
