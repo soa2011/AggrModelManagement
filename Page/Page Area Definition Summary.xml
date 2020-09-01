@@ -432,7 +432,7 @@
     <sch:treeNodes/>
     <sch:buttons>
         <sch:BmfPageButton>
-            <sch:seqNo>200</sch:seqNo>
+            <sch:seqNumber>200</sch:seqNumber>
             <sch:buttonName>Copy</sch:buttonName>
             <sch:displayCondition></sch:displayCondition>
             <sch:displayResource></sch:displayResource>
@@ -442,7 +442,7 @@
             <sch:bmfButton isRef="true">Copy</sch:bmfButton>
         </sch:BmfPageButton>
         <sch:BmfPageButton>
-            <sch:seqNo>300</sch:seqNo>
+            <sch:seqNumber>300</sch:seqNumber>
             <sch:buttonName>DeepCopy</sch:buttonName>
             <sch:displayCondition></sch:displayCondition>
             <sch:displayResource></sch:displayResource>
@@ -451,7 +451,7 @@
             <sch:eventHandler></sch:eventHandler>
         </sch:BmfPageButton>
         <sch:BmfPageButton>
-            <sch:seqNo>400</sch:seqNo>
+            <sch:seqNumber>400</sch:seqNumber>
             <sch:buttonName>Import</sch:buttonName>
             <sch:displayCondition></sch:displayCondition>
             <sch:displayResource></sch:displayResource>

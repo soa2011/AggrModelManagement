@@ -483,7 +483,7 @@
     <sch:treeNodes/>
     <sch:buttons>
         <sch:BmfPageButton>
-            <sch:seqNo>2100</sch:seqNo>
+            <sch:seqNumber>2100</sch:seqNumber>
             <sch:buttonName>EditRateTable</sch:buttonName>
             <sch:displayCondition>$("#ValueType").val() != 'Nvarchar' &amp;&amp; $("#ValueType").val() != 'Integer'</sch:displayCondition>
             <sch:displayResource></sch:displayResource>

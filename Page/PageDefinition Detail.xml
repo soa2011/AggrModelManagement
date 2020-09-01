@@ -1085,7 +1085,7 @@
     <sch:treeNodes/>
     <sch:buttons>
         <sch:BmfPageButton>
-            <sch:seqNo>2000</sch:seqNo>
+            <sch:seqNumber>2000</sch:seqNumber>
             <sch:buttonName>EditPage</sch:buttonName>
             <sch:displayCondition></sch:displayCondition>
             <sch:displayResource></sch:displayResource>
@@ -1095,7 +1095,7 @@
             <sch:bmfButton isRef="true">EditPage</sch:bmfButton>
         </sch:BmfPageButton>
         <sch:BmfPageButton>
-            <sch:seqNo>2400</sch:seqNo>
+            <sch:seqNumber>2400</sch:seqNumber>
             <sch:buttonName>TestPage</sch:buttonName>
             <sch:displayCondition></sch:displayCondition>
             <sch:displayResource></sch:displayResource>

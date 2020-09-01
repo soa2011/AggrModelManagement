@@ -7,20 +7,20 @@
     <sch:domainEntries>
         <sch:BmfDomainEntry>
             <sch:seqNumber>1</sch:seqNumber>
-            <sch:displayValue>ListOfValues</sch:displayValue>
-            <sch:dataValue>ListOfValues</sch:dataValue>
+            <sch:displayValue>LIST_OF_VALUES</sch:displayValue>
+            <sch:dataValue>LIST_OF_VALUES</sch:dataValue>
             <sch:keyValues>{}</sch:keyValues>
         </sch:BmfDomainEntry>
         <sch:BmfDomainEntry>
             <sch:seqNumber>2</sch:seqNumber>
-            <sch:displayValue>Reference</sch:displayValue>
-            <sch:dataValue>Reference</sch:dataValue>
+            <sch:displayValue>REFERENCE</sch:displayValue>
+            <sch:dataValue>REFERENCE</sch:dataValue>
             <sch:keyValues>{}</sch:keyValues>
         </sch:BmfDomainEntry>
         <sch:BmfDomainEntry>
             <sch:seqNumber>3</sch:seqNumber>
-            <sch:displayValue>Range</sch:displayValue>
-            <sch:dataValue>Range</sch:dataValue>
+            <sch:displayValue>RANGE</sch:displayValue>
+            <sch:dataValue>RANGE</sch:dataValue>
             <sch:keyValues>{}</sch:keyValues>
         </sch:BmfDomainEntry>
     </sch:domainEntries>

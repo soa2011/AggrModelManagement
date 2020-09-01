@@ -482,7 +482,7 @@
     <sch:treeNodes/>
     <sch:buttons>
         <sch:BmfPageButton>
-            <sch:seqNo>2000</sch:seqNo>
+            <sch:seqNumber>2000</sch:seqNumber>
             <sch:buttonName>Download</sch:buttonName>
             <sch:displayCondition></sch:displayCondition>
             <sch:displayResource></sch:displayResource>
@@ -492,7 +492,7 @@
             <sch:bmfButton isRef="true">Download</sch:bmfButton>
         </sch:BmfPageButton>
         <sch:BmfPageButton>
-            <sch:seqNo>2100</sch:seqNo>
+            <sch:seqNumber>2100</sch:seqNumber>
             <sch:buttonName>DeployModel</sch:buttonName>
             <sch:displayCondition></sch:displayCondition>
             <sch:displayResource></sch:displayResource>
@@ -502,7 +502,7 @@
             <sch:bmfButton isRef="true">DeployModel</sch:bmfButton>
         </sch:BmfPageButton>
         <sch:BmfPageButton>
-            <sch:seqNo>2200</sch:seqNo>
+            <sch:seqNumber>2200</sch:seqNumber>
             <sch:buttonName>ViewClassDiagram</sch:buttonName>
             <sch:displayCondition></sch:displayCondition>
             <sch:displayResource></sch:displayResource>
@@ -512,7 +512,7 @@
             <sch:bmfButton isRef="true">ViewClassDiagram</sch:bmfButton>
         </sch:BmfPageButton>
         <sch:BmfPageButton>
-            <sch:seqNo>3000</sch:seqNo>
+            <sch:seqNumber>3000</sch:seqNumber>
             <sch:buttonName>OpenInBrowser</sch:buttonName>
             <sch:displayCondition></sch:displayCondition>
             <sch:displayResource></sch:displayResource>

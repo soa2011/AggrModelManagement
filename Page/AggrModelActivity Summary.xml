@@ -482,7 +482,7 @@
     <sch:treeNodes/>
     <sch:buttons>
         <sch:BmfPageButton>
-            <sch:seqNo>1100</sch:seqNo>
+            <sch:seqNumber>1100</sch:seqNumber>
             <sch:buttonName>Download</sch:buttonName>
             <sch:displayCondition></sch:displayCondition>
             <sch:displayResource></sch:displayResource>
@@ -492,7 +492,7 @@
             <sch:bmfButton isRef="true">Download</sch:bmfButton>
         </sch:BmfPageButton>
         <sch:BmfPageButton>
-            <sch:seqNo>1200</sch:seqNo>
+            <sch:seqNumber>1200</sch:seqNumber>
             <sch:buttonName>ImportModel</sch:buttonName>
             <sch:displayCondition></sch:displayCondition>
             <sch:displayResource></sch:displayResource>
@@ -502,7 +502,7 @@
             <sch:bmfButton isRef="true">ImportModel</sch:bmfButton>
         </sch:BmfPageButton>
         <sch:BmfPageButton>
-            <sch:seqNo>1300</sch:seqNo>
+            <sch:seqNumber>1300</sch:seqNumber>
             <sch:buttonName>ExportModel</sch:buttonName>
             <sch:displayCondition></sch:displayCondition>
             <sch:displayResource></sch:displayResource>
@@ -512,7 +512,7 @@
             <sch:bmfButton isRef="true">ExportModel</sch:bmfButton>
         </sch:BmfPageButton>
         <sch:BmfPageButton>
-            <sch:seqNo>1400</sch:seqNo>
+            <sch:seqNumber>1400</sch:seqNumber>
             <sch:buttonName>ViewMessages</sch:buttonName>
             <sch:displayCondition></sch:displayCondition>
             <sch:displayResource></sch:displayResource>
@@ -522,7 +522,7 @@
             <sch:bmfButton isRef="true">ViewMessages</sch:bmfButton>
         </sch:BmfPageButton>
         <sch:BmfPageButton>
-            <sch:seqNo>1500</sch:seqNo>
+            <sch:seqNumber>1500</sch:seqNumber>
             <sch:buttonName>GenerateCode</sch:buttonName>
             <sch:displayCondition></sch:displayCondition>
             <sch:displayResource></sch:displayResource>
@@ -532,7 +532,7 @@
             <sch:bmfButton isRef="true">GenerateCode</sch:bmfButton>
         </sch:BmfPageButton>
         <sch:BmfPageButton>
-            <sch:seqNo>1600</sch:seqNo>
+            <sch:seqNumber>1600</sch:seqNumber>
             <sch:buttonName>GenerateTenantDb</sch:buttonName>
             <sch:displayCondition></sch:displayCondition>
             <sch:displayResource></sch:displayResource>
@@ -542,7 +542,7 @@
             <sch:bmfButton isRef="true">GenerateTenantDb</sch:bmfButton>
         </sch:BmfPageButton>
         <sch:BmfPageButton>
-            <sch:seqNo>2000</sch:seqNo>
+            <sch:seqNumber>2000</sch:seqNumber>
             <sch:buttonName>Add</sch:buttonName>
             <sch:displayCondition></sch:displayCondition>
             <sch:displayResource></sch:displayResource>
@@ -552,7 +552,7 @@
             <sch:bmfButton isRef="true">Add</sch:bmfButton>
         </sch:BmfPageButton>
         <sch:BmfPageButton>
-            <sch:seqNo>2050</sch:seqNo>
+            <sch:seqNumber>2050</sch:seqNumber>
             <sch:buttonName>Modify</sch:buttonName>
             <sch:displayCondition></sch:displayCondition>
             <sch:displayResource></sch:displayResource>
@@ -562,7 +562,7 @@
             <sch:bmfButton isRef="true">Modify</sch:bmfButton>
         </sch:BmfPageButton>
         <sch:BmfPageButton>
-            <sch:seqNo>2060</sch:seqNo>
+            <sch:seqNumber>2060</sch:seqNumber>
             <sch:buttonName>Delete</sch:buttonName>
             <sch:displayCondition></sch:displayCondition>
             <sch:displayResource></sch:displayResource>
@@ -572,7 +572,7 @@
             <sch:bmfButton isRef="true">Delete</sch:bmfButton>
         </sch:BmfPageButton>
         <sch:BmfPageButton>
-            <sch:seqNo>2100</sch:seqNo>
+            <sch:seqNumber>2100</sch:seqNumber>
             <sch:buttonName>Copy</sch:buttonName>
             <sch:displayCondition></sch:displayCondition>
             <sch:displayResource></sch:displayResource>
@@ -582,7 +582,7 @@
             <sch:bmfButton isRef="true">Copy</sch:bmfButton>
         </sch:BmfPageButton>
         <sch:BmfPageButton>
-            <sch:seqNo>2100</sch:seqNo>
+            <sch:seqNumber>2100</sch:seqNumber>
             <sch:buttonName>DeepCopy</sch:buttonName>
             <sch:displayCondition></sch:displayCondition>
             <sch:displayResource></sch:displayResource>
@@ -591,7 +591,7 @@
             <sch:eventHandler></sch:eventHandler>
         </sch:BmfPageButton>
         <sch:BmfPageButton>
-            <sch:seqNo>2050</sch:seqNo>
+            <sch:seqNumber>2050</sch:seqNumber>
             <sch:buttonName>AddAnother</sch:buttonName>
             <sch:displayCondition></sch:displayCondition>
             <sch:displayResource></sch:displayResource>
@@ -601,7 +601,7 @@
             <sch:bmfButton isRef="true">AddAnother</sch:bmfButton>
         </sch:BmfPageButton>
         <sch:BmfPageButton>
-            <sch:seqNo>2060</sch:seqNo>
+            <sch:seqNumber>2060</sch:seqNumber>
             <sch:buttonName>CopyAnother</sch:buttonName>
             <sch:displayCondition></sch:displayCondition>
             <sch:displayResource></sch:displayResource>
@@ -611,7 +611,7 @@
             <sch:bmfButton isRef="true">CopyAnother</sch:bmfButton>
         </sch:BmfPageButton>
         <sch:BmfPageButton>
-            <sch:seqNo>2100</sch:seqNo>
+            <sch:seqNumber>2100</sch:seqNumber>
             <sch:buttonName>ViewHistory</sch:buttonName>
             <sch:displayCondition></sch:displayCondition>
             <sch:displayResource></sch:displayResource>
@@ -621,7 +621,7 @@
             <sch:bmfButton isRef="true">ViewHistory</sch:bmfButton>
         </sch:BmfPageButton>
         <sch:BmfPageButton>
-            <sch:seqNo>2100</sch:seqNo>
+            <sch:seqNumber>2100</sch:seqNumber>
             <sch:buttonName>ViewWhereUsed</sch:buttonName>
             <sch:displayCondition></sch:displayCondition>
             <sch:displayResource></sch:displayResource>

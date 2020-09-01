@@ -382,7 +382,7 @@
     <sch:treeNodes/>
     <sch:buttons>
         <sch:BmfPageButton>
-            <sch:seqNo>900</sch:seqNo>
+            <sch:seqNumber>900</sch:seqNumber>
             <sch:buttonName>AddDeviation</sch:buttonName>
             <sch:displayCondition></sch:displayCondition>
             <sch:displayResource></sch:displayResource>

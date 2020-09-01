@@ -536,7 +536,7 @@
     <sch:treeNodes/>
     <sch:buttons>
         <sch:BmfPageButton>
-            <sch:seqNo>800</sch:seqNo>
+            <sch:seqNumber>800</sch:seqNumber>
             <sch:buttonName>AddAnother</sch:buttonName>
             <sch:displayCondition></sch:displayCondition>
             <sch:displayResource></sch:displayResource>
@@ -546,7 +546,7 @@
             <sch:bmfButton isRef="true">AddAnother</sch:bmfButton>
         </sch:BmfPageButton>
         <sch:BmfPageButton>
-            <sch:seqNo>900</sch:seqNo>
+            <sch:seqNumber>900</sch:seqNumber>
             <sch:buttonName>CopyAnother</sch:buttonName>
             <sch:displayCondition></sch:displayCondition>
             <sch:displayResource></sch:displayResource>

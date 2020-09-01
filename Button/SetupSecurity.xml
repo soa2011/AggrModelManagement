@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <sch:Button xmlns:sch="http://Baf.com/schemas" name="SetupSecurity">
-    <sch:seqIndex>24</sch:seqIndex>
     <sch:name>SetupSecurity</sch:name>
     <sch:label>SetupSecurity</sch:label>
     <sch:behavior>ExecuteMethod</sch:behavior>

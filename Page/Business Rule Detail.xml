@@ -534,7 +534,7 @@
     <sch:treeNodes/>
     <sch:buttons>
         <sch:BmfPageButton>
-            <sch:seqNo>1700</sch:seqNo>
+            <sch:seqNumber>1700</sch:seqNumber>
             <sch:buttonName>EditBmfRule</sch:buttonName>
             <sch:displayCondition></sch:displayCondition>
             <sch:displayResource></sch:displayResource>
