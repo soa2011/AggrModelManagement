@@ -7,20 +7,20 @@
     <sch:domainEntries>
         <sch:BmfDomainEntry>
             <sch:seqNumber>1</sch:seqNumber>
-            <sch:displayValue>Day</sch:displayValue>
-            <sch:dataValue>Day</sch:dataValue>
+            <sch:displayValue>Structural</sch:displayValue>
+            <sch:dataValue>Structural</sch:dataValue>
             <sch:keyValues>{}</sch:keyValues>
         </sch:BmfDomainEntry>
         <sch:BmfDomainEntry>
             <sch:seqNumber>2</sch:seqNumber>
-            <sch:displayValue>Month</sch:displayValue>
-            <sch:dataValue>Month</sch:dataValue>
+            <sch:displayValue>Canvas</sch:displayValue>
+            <sch:dataValue>Canvas</sch:dataValue>
             <sch:keyValues>{}</sch:keyValues>
         </sch:BmfDomainEntry>
         <sch:BmfDomainEntry>
             <sch:seqNumber>3</sch:seqNumber>
-            <sch:displayValue>Year</sch:displayValue>
-            <sch:dataValue>Year</sch:dataValue>
+            <sch:displayValue>Other</sch:displayValue>
+            <sch:dataValue>Other</sch:dataValue>
             <sch:keyValues>{}</sch:keyValues>
         </sch:BmfDomainEntry>
     </sch:domainEntries>
