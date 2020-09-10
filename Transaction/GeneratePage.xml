@@ -10,11 +10,11 @@
     <sch:newStatus></sch:newStatus>
     <sch:versionMode>New Version</sch:versionMode>
     <sch:executionMode>With Transaction</sch:executionMode>
-    <sch:pageDefinition>ModelAdminActivity Detail</sch:pageDefinition>
+    <sch:pageDefinition>ModelAdminActivity3 Detail</sch:pageDefinition>
     <sch:targetObjectType></sch:targetObjectType>
     <sch:refreshMode>No</sch:refreshMode>
     <sch:securityToken></sch:securityToken>
     <sch:transType></sch:transType>
     <sch:description></sch:description>
-    <sch:bmfPage isRef="true">ModelAdminActivity Detail</sch:bmfPage>
+    <sch:bmfPage isRef="true">ModelAdminActivity3 Detail</sch:bmfPage>
 </sch:Transaction>
