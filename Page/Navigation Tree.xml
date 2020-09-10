@@ -315,10 +315,10 @@
             <sch:description></sch:description>
         </sch:BmfTreeNode>
         <sch:BmfTreeNode>
-            <sch:tableName>ActorRule</sch:tableName>
+            <sch:tableName>IndexRule</sch:tableName>
             <sch:type>Collection</sch:type>
             <sch:seqIndex>3300</sch:seqIndex>
-            <sch:format>ActorRules(%s)</sch:format>
+            <sch:format>Indexes(%s)</sch:format>
             <sch:columns>#count</sch:columns>
             <sch:action></sch:action>
             <sch:quoteDisplay>true</sch:quoteDisplay>
@@ -326,11 +326,11 @@
             <sch:description></sch:description>
         </sch:BmfTreeNode>
         <sch:BmfTreeNode>
-            <sch:tableName>ActorRule</sch:tableName>
+            <sch:tableName>IndexRule</sch:tableName>
             <sch:type>Item</sch:type>
             <sch:seqIndex>3300</sch:seqIndex>
             <sch:format>%s %s</sch:format>
-            <sch:columns>Name,RuleType</sch:columns>
+            <sch:columns>Name,IndexType</sch:columns>
             <sch:action>No</sch:action>
             <sch:quoteDisplay>false</sch:quoteDisplay>
             <sch:policyDisplay>true</sch:policyDisplay>

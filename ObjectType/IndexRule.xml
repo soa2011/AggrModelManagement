@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<sch:ObjectType xmlns:sch="http://Baf.com/schemas" name="ActorRule">
-    <sch:name>ActorRule</sch:name>
+<sch:ObjectType xmlns:sch="http://Baf.com/schemas" name="IndexRule">
+    <sch:name>IndexRule</sch:name>
     <sch:tableType>Risk</sch:tableType>
     <sch:archeType>NORMAL</sch:archeType>
     <sch:parentTypeName>ObjectType</sch:parentTypeName>
@@ -40,9 +40,9 @@
             <sch:description></sch:description>
         </sch:BmfObjectField>
         <sch:BmfObjectField>
-            <sch:name>RuleType</sch:name>
+            <sch:name>IndexType</sch:name>
             <sch:dataType>Char</sch:dataType>
-            <sch:enumName>ActorRuleType</sch:enumName>
+            <sch:enumName>IndexType</sch:enumName>
             <sch:length>32</sch:length>
             <sch:scale></sch:scale>
             <sch:autoIncrement>false</sch:autoIncrement>
@@ -54,10 +54,10 @@
             <sch:description></sch:description>
         </sch:BmfObjectField>
         <sch:BmfObjectField>
-            <sch:name>RuleBody</sch:name>
-            <sch:dataType>CLOB</sch:dataType>
+            <sch:name>IndexColumns</sch:name>
+            <sch:dataType>Char</sch:dataType>
             <sch:enumName></sch:enumName>
-            <sch:length>25000</sch:length>
+            <sch:length>256</sch:length>
             <sch:scale></sch:scale>
             <sch:autoIncrement>false</sch:autoIncrement>
             <sch:calculated>false</sch:calculated>

@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<sch:PageDefinition xmlns:sch="http://Baf.com/schemas" name="ActorRule Summary">
-    <sch:name>ActorRule Summary</sch:name>
+<sch:PageDefinition xmlns:sch="http://Baf.com/schemas" name="IndexRule Summary">
+    <sch:name>IndexRule Summary</sch:name>
     <sch:pageNumber></sch:pageNumber>
     <sch:pageType>Summary</sch:pageType>
     <sch:pageCondition></sch:pageCondition>
     <sch:title></sch:title>
     <sch:seqNumber>700</sch:seqNumber>
-    <sch:tableName>ActorRule</sch:tableName>
+    <sch:tableName>IndexRule</sch:tableName>
     <sch:quoteDisplay>true</sch:quoteDisplay>
     <sch:labelColWidth>200</sch:labelColWidth>
     <sch:valueColWidth>300</sch:valueColWidth>
@@ -25,7 +25,7 @@
     <sch:description></sch:description>
     <sch:clientSideController></sch:clientSideController>
     <sch:serverSideController></sch:serverSideController>
-    <sch:objectType isRef="true">ActorRule</sch:objectType>
+    <sch:objectType isRef="true">IndexRule</sch:objectType>
     <sch:fields>
         <sch:BmfPageField>
             <sch:name>Name</sch:name>
@@ -78,7 +78,7 @@
             <sch:eventHandler></sch:eventHandler>
         </sch:BmfPageField>
         <sch:BmfPageField>
-            <sch:name>RuleType</sch:name>
+            <sch:name>IndexType</sch:name>
             <sch:seqNumber>200</sch:seqNumber>
             <sch:tabIndex>0</sch:tabIndex>
             <sch:tabPage></sch:tabPage>
@@ -86,7 +86,7 @@
             <sch:fieldType>Text</sch:fieldType>
             <sch:widgetType2></sch:widgetType2>
             <sch:refTargetType></sch:refTargetType>
-            <sch:label>RuleType</sch:label>
+            <sch:label>IndexType</sch:label>
             <sch:controllingParameters></sch:controllingParameters>
             <sch:domainName></sch:domainName>
             <sch:dynaDomain></sch:dynaDomain>
@@ -128,7 +128,7 @@
             <sch:eventHandler></sch:eventHandler>
         </sch:BmfPageField>
         <sch:BmfPageField>
-            <sch:name>MatchPattern</sch:name>
+            <sch:name>IndexColumns</sch:name>
             <sch:seqNumber>300</sch:seqNumber>
             <sch:tabIndex>0</sch:tabIndex>
             <sch:tabPage></sch:tabPage>
@@ -136,7 +136,7 @@
             <sch:fieldType>Text</sch:fieldType>
             <sch:widgetType2></sch:widgetType2>
             <sch:refTargetType></sch:refTargetType>
-            <sch:label>MatchPattern</sch:label>
+            <sch:label>IndexColumns</sch:label>
             <sch:controllingParameters></sch:controllingParameters>
             <sch:domainName></sch:domainName>
             <sch:dynaDomain></sch:dynaDomain>
