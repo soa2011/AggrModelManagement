@@ -8,7 +8,12 @@
     <sch:accessMode></sch:accessMode>
     <sch:primaryField></sch:primaryField>
     <sch:primaryKey></sch:primaryKey>
+    <sch:baseTables></sch:baseTables>
+    <sch:viewInfo></sch:viewInfo>
+    <sch:hierarchyColumn></sch:hierarchyColumn>
     <sch:description></sch:description>
+    <sch:changeType></sch:changeType>
+    <sch:changeFields></sch:changeFields>
     <sch:bmfRelationships>
         <sch:BmfObjectRelationship>
             <sch:type>REF_TO_MANY</sch:type>
@@ -212,6 +217,8 @@
             <sch:seqPattern></sch:seqPattern>
             <sch:calcExpr></sch:calcExpr>
             <sch:description></sch:description>
+            <sch:changeType></sch:changeType>
+            <sch:changeFields></sch:changeFields>
         </sch:BmfObjectField>
         <sch:BmfObjectField>
             <sch:name>Description</sch:name>
@@ -226,6 +233,8 @@
             <sch:seqPattern></sch:seqPattern>
             <sch:calcExpr></sch:calcExpr>
             <sch:description></sch:description>
+            <sch:changeType></sch:changeType>
+            <sch:changeFields></sch:changeFields>
         </sch:BmfObjectField>
         <sch:BmfObjectField>
             <sch:name>CreatedBy</sch:name>
@@ -240,6 +249,8 @@
             <sch:seqPattern></sch:seqPattern>
             <sch:calcExpr></sch:calcExpr>
             <sch:description></sch:description>
+            <sch:changeType></sch:changeType>
+            <sch:changeFields></sch:changeFields>
         </sch:BmfObjectField>
         <sch:BmfObjectField>
             <sch:name>CreatedOn</sch:name>
@@ -254,6 +265,8 @@
             <sch:seqPattern></sch:seqPattern>
             <sch:calcExpr></sch:calcExpr>
             <sch:description></sch:description>
+            <sch:changeType></sch:changeType>
+            <sch:changeFields></sch:changeFields>
         </sch:BmfObjectField>
         <sch:BmfObjectField>
             <sch:name>UpdatedBy</sch:name>
@@ -268,6 +281,8 @@
             <sch:seqPattern></sch:seqPattern>
             <sch:calcExpr></sch:calcExpr>
             <sch:description></sch:description>
+            <sch:changeType></sch:changeType>
+            <sch:changeFields></sch:changeFields>
         </sch:BmfObjectField>
         <sch:BmfObjectField>
             <sch:name>UpdatedOn</sch:name>
@@ -282,7 +297,10 @@
             <sch:seqPattern></sch:seqPattern>
             <sch:calcExpr></sch:calcExpr>
             <sch:description></sch:description>
+            <sch:changeType></sch:changeType>
+            <sch:changeFields></sch:changeFields>
         </sch:BmfObjectField>
     </sch:bmfFields>
     <sch:bmfRules/>
+    <sch:bmfIndexRules/>
 </sch:ObjectType>
