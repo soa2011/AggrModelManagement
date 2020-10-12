@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <sch:ObjectType xmlns:sch="http://Baf.com/schemas" name="FieldDomainTableKeyField">
     <sch:name>FieldDomainTableKeyField</sch:name>
-    <sch:tableType>Risk</sch:tableType>
+    <sch:tableType>System</sch:tableType>
     <sch:archeType>NORMAL</sch:archeType>
     <sch:parentTypeName>DetailPageField</sch:parentTypeName>
     <sch:superTypeName></sch:superTypeName>
@@ -12,6 +12,7 @@
     <sch:viewInfo></sch:viewInfo>
     <sch:hierarchyColumn></sch:hierarchyColumn>
     <sch:description></sch:description>
+    <sch:aggrRoot>false</sch:aggrRoot>
     <sch:changeType></sch:changeType>
     <sch:changeFields></sch:changeFields>
     <sch:bmfRelationships/>

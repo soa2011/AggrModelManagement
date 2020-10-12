@@ -6,7 +6,7 @@
     <sch:pageCondition></sch:pageCondition>
     <sch:title></sch:title>
     <sch:seqNumber>1600</sch:seqNumber>
-    <sch:tableName>PageDefinition</sch:tableName>
+    <sch:objectTypeName>PageDefinition</sch:objectTypeName>
     <sch:display>true</sch:display>
     <sch:labelColWidth>200</sch:labelColWidth>
     <sch:valueColWidth>300</sch:valueColWidth>

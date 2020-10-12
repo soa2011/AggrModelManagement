@@ -6,7 +6,7 @@
     <sch:pageCondition></sch:pageCondition>
     <sch:title></sch:title>
     <sch:seqNumber>3600</sch:seqNumber>
-    <sch:tableName>Button</sch:tableName>
+    <sch:objectTypeName>Button</sch:objectTypeName>
     <sch:display>true</sch:display>
     <sch:labelColWidth>200</sch:labelColWidth>
     <sch:valueColWidth>300</sch:valueColWidth>

@@ -6,7 +6,7 @@
     <sch:pageCondition></sch:pageCondition>
     <sch:title></sch:title>
     <sch:seqNumber>700</sch:seqNumber>
-    <sch:tableName>ObjectRelationship</sch:tableName>
+    <sch:objectTypeName>ObjectRelationship</sch:objectTypeName>
     <sch:display>true</sch:display>
     <sch:labelColWidth>200</sch:labelColWidth>
     <sch:valueColWidth>300</sch:valueColWidth>

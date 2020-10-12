@@ -6,7 +6,7 @@
     <sch:pageCondition></sch:pageCondition>
     <sch:title></sch:title>
     <sch:seqNumber>600</sch:seqNumber>
-    <sch:tableName>ObjectType</sch:tableName>
+    <sch:objectTypeName>ObjectType</sch:objectTypeName>
     <sch:display>true</sch:display>
     <sch:labelColWidth>200</sch:labelColWidth>
     <sch:valueColWidth>300</sch:valueColWidth>
@@ -337,14 +337,14 @@
             <sch:bmfDomain isRef="true">ArcheType</sch:bmfDomain>
         </sch:BmfPageField>
         <sch:BmfPageField>
-            <sch:name>IsAggrRoot</sch:name>
+            <sch:name>AggrRoot</sch:name>
             <sch:seqNumber>380</sch:seqNumber>
             <sch:tabIndex>0</sch:tabIndex>
             <sch:tabPage></sch:tabPage>
             <sch:pageAreaName></sch:pageAreaName>
             <sch:fieldType>Select</sch:fieldType>
             <sch:refTargetType></sch:refTargetType>
-            <sch:label>IsAggrRoot</sch:label>
+            <sch:label>AggrRoot</sch:label>
             <sch:controllingParameters></sch:controllingParameters>
             <sch:domainName>YesNo</sch:domainName>
             <sch:dynaDomain></sch:dynaDomain>

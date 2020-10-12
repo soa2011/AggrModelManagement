@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <sch:ObjectType xmlns:sch="http://Baf.com/schemas" name="ObjectType">
     <sch:name>ObjectType</sch:name>
-    <sch:tableType>Risk</sch:tableType>
+    <sch:tableType>System</sch:tableType>
     <sch:archeType>NORMAL</sch:archeType>
     <sch:parentTypeName>AggrModelManagement</sch:parentTypeName>
     <sch:superTypeName></sch:superTypeName>
@@ -12,6 +12,7 @@
     <sch:viewInfo></sch:viewInfo>
     <sch:hierarchyColumn></sch:hierarchyColumn>
     <sch:description></sch:description>
+    <sch:aggrRoot>false</sch:aggrRoot>
     <sch:changeType></sch:changeType>
     <sch:changeFields></sch:changeFields>
     <sch:bmfRelationships>
@@ -43,6 +44,17 @@
             <sch:displayName></sch:displayName>
             <sch:description></sch:description>
             <sch:relatedObjectType>IndexRule</sch:relatedObjectType>
+            <sch:joinField></sch:joinField>
+            <sch:lowerBound>0</sch:lowerBound>
+            <sch:upperBound>-1</sch:upperBound>
+            <sch:containment>false</sch:containment>
+        </sch:BmfObjectRelationship>
+        <sch:BmfObjectRelationship>
+            <sch:type>REF_TO_MANY</sch:type>
+            <sch:name>ObjectTypeConfig</sch:name>
+            <sch:displayName></sch:displayName>
+            <sch:description></sch:description>
+            <sch:relatedObjectType>ObjectTypeConfig</sch:relatedObjectType>
             <sch:joinField></sch:joinField>
             <sch:lowerBound>0</sch:lowerBound>
             <sch:upperBound>-1</sch:upperBound>
@@ -320,7 +332,7 @@
             <sch:changeFields></sch:changeFields>
         </sch:BmfObjectField>
         <sch:BmfObjectField>
-            <sch:name>IsAggrRoot</sch:name>
+            <sch:name>AggrRoot</sch:name>
             <sch:dataType>Char</sch:dataType>
             <sch:enumName>YesNo</sch:enumName>
             <sch:length>16</sch:length>

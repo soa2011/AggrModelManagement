@@ -6,7 +6,7 @@
     <sch:pageCondition></sch:pageCondition>
     <sch:title></sch:title>
     <sch:seqNumber>300</sch:seqNumber>
-    <sch:tableName>ConfigurationParameter</sch:tableName>
+    <sch:objectTypeName>ConfigurationParameter</sch:objectTypeName>
     <sch:display>true</sch:display>
     <sch:labelColWidth>200</sch:labelColWidth>
     <sch:valueColWidth>300</sch:valueColWidth>

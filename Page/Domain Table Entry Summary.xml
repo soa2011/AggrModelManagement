@@ -6,7 +6,7 @@
     <sch:pageCondition></sch:pageCondition>
     <sch:title></sch:title>
     <sch:seqNumber>1300</sch:seqNumber>
-    <sch:tableName>DomainTableEntry</sch:tableName>
+    <sch:objectTypeName>DomainTableEntry</sch:objectTypeName>
     <sch:display>true</sch:display>
     <sch:labelColWidth>200</sch:labelColWidth>
     <sch:valueColWidth>300</sch:valueColWidth>
