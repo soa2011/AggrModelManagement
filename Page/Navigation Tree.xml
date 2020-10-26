@@ -642,7 +642,7 @@
         <sch:BmfTreeNode>
             <sch:tableName>PageButton</sch:tableName>
             <sch:type>Item</sch:type>
-            <sch:seqIndex>3850</sch:seqIndex>
+            <sch:seqIndex>3800</sch:seqIndex>
             <sch:format>%s</sch:format>
             <sch:columns>ButtonName</sch:columns>
             <sch:action>No</sch:action>
@@ -652,7 +652,7 @@
         <sch:BmfTreeNode>
             <sch:tableName>TreeNode</sch:tableName>
             <sch:type>Collection</sch:type>
-            <sch:seqIndex>3800</sch:seqIndex>
+            <sch:seqIndex>3850</sch:seqIndex>
             <sch:format>TreeNodes(%s)</sch:format>
             <sch:columns>#count</sch:columns>
             <sch:action></sch:action>
@@ -665,6 +665,26 @@
             <sch:seqIndex>3850</sch:seqIndex>
             <sch:format>%s(%s)</sch:format>
             <sch:columns>TableName,Type</sch:columns>
+            <sch:action>No</sch:action>
+            <sch:quoteDisplay>false</sch:quoteDisplay>
+            <sch:description></sch:description>
+        </sch:BmfTreeNode>
+        <sch:BmfTreeNode>
+            <sch:tableName>PagePlugin</sch:tableName>
+            <sch:type>Collection</sch:type>
+            <sch:seqIndex>3900</sch:seqIndex>
+            <sch:format>PagePlugins(%s)</sch:format>
+            <sch:columns>#count</sch:columns>
+            <sch:action></sch:action>
+            <sch:quoteDisplay>true</sch:quoteDisplay>
+            <sch:description></sch:description>
+        </sch:BmfTreeNode>
+        <sch:BmfTreeNode>
+            <sch:tableName>PagePlugin</sch:tableName>
+            <sch:type>Item</sch:type>
+            <sch:seqIndex>3900</sch:seqIndex>
+            <sch:format>%s</sch:format>
+            <sch:columns>Name</sch:columns>
             <sch:action>No</sch:action>
             <sch:quoteDisplay>false</sch:quoteDisplay>
             <sch:description></sch:description>

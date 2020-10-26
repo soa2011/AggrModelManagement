@@ -294,4 +294,5 @@
     </sch:bmfFields>
     <sch:bmfRules/>
     <sch:bmfIndexRules/>
+    <sch:objectTypeConfigs/>
 </sch:ObjectType>
