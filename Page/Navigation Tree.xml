@@ -770,41 +770,41 @@
             <sch:description></sch:description>
         </sch:BmfTreeNode>
         <sch:BmfTreeNode>
-            <sch:tableName>RateTableKey</sch:tableName>
+            <sch:tableName>InParameter</sch:tableName>
             <sch:type>Collection</sch:type>
             <sch:seqIndex>4016</sch:seqIndex>
-            <sch:format>RateTableKeys(%s)</sch:format>
+            <sch:format>InParameters(%s)</sch:format>
             <sch:columns>#count</sch:columns>
             <sch:action></sch:action>
             <sch:quoteDisplay>true</sch:quoteDisplay>
             <sch:description></sch:description>
         </sch:BmfTreeNode>
         <sch:BmfTreeNode>
-            <sch:tableName>RateTableKey</sch:tableName>
+            <sch:tableName>InParameter</sch:tableName>
             <sch:type>Item</sch:type>
             <sch:seqIndex>4017</sch:seqIndex>
             <sch:format>%s</sch:format>
-            <sch:columns>Name</sch:columns>
+            <sch:columns>FieldName</sch:columns>
             <sch:action></sch:action>
             <sch:quoteDisplay>true</sch:quoteDisplay>
             <sch:description></sch:description>
         </sch:BmfTreeNode>
         <sch:BmfTreeNode>
-            <sch:tableName>RateTableEntry</sch:tableName>
+            <sch:tableName>OutParameter</sch:tableName>
             <sch:type>Collection</sch:type>
             <sch:seqIndex>4040</sch:seqIndex>
-            <sch:format>RateTableEntries(%s)</sch:format>
+            <sch:format>OutParameters(%s)</sch:format>
             <sch:columns>#count</sch:columns>
             <sch:action></sch:action>
             <sch:quoteDisplay>true</sch:quoteDisplay>
             <sch:description></sch:description>
         </sch:BmfTreeNode>
         <sch:BmfTreeNode>
-            <sch:tableName>RateTableEntry</sch:tableName>
+            <sch:tableName>OutParameter</sch:tableName>
             <sch:type>Item</sch:type>
             <sch:seqIndex>4070</sch:seqIndex>
-            <sch:format>RateTableEntry</sch:format>
-            <sch:columns></sch:columns>
+            <sch:format>%s</sch:format>
+            <sch:columns>FieldName</sch:columns>
             <sch:action>No</sch:action>
             <sch:quoteDisplay>false</sch:quoteDisplay>
             <sch:description></sch:description>

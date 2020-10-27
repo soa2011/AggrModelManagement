@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<sch:DomainTable xmlns:sch="http://Baf.com/schemas" name="RateTableKeyType">
-    <sch:name>RateTableKeyType</sch:name>
+<sch:DomainTable xmlns:sch="http://Baf.com/schemas" name="InParameterType">
+    <sch:name>InParameterType</sch:name>
     <sch:domainType>LIST_OF_VALUES</sch:domainType>
     <sch:description></sch:description>
     <sch:domainKeys/>
