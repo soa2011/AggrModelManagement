@@ -218,10 +218,10 @@
             <sch:changeFields></sch:changeFields>
         </sch:BmfObjectField>
         <sch:BmfObjectField>
-            <sch:name>MultiplyOccurring</sch:name>
+            <sch:name>ActionType</sch:name>
             <sch:dataType>Char</sch:dataType>
             <sch:enumName></sch:enumName>
-            <sch:length>16</sch:length>
+            <sch:length>32</sch:length>
             <sch:scale></sch:scale>
             <sch:autoIncrement>false</sch:autoIncrement>
             <sch:calculated>false</sch:calculated>
@@ -234,10 +234,10 @@
             <sch:changeFields></sch:changeFields>
         </sch:BmfObjectField>
         <sch:BmfObjectField>
-            <sch:name>ControllingParameters</sch:name>
+            <sch:name>EventType</sch:name>
             <sch:dataType>Char</sch:dataType>
             <sch:enumName></sch:enumName>
-            <sch:length></sch:length>
+            <sch:length>32</sch:length>
             <sch:scale></sch:scale>
             <sch:autoIncrement>false</sch:autoIncrement>
             <sch:calculated>false</sch:calculated>
