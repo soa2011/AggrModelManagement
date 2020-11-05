@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<sch:Rule xmlns:sch="http://Baf.com/schemas" name="ObjectType">
+    <sch:name>ObjectType</sch:name>
+    <sch:objectTypeName>ObjectType</sch:objectTypeName>
+    <sch:referenceName></sch:referenceName>
+    <sch:fieldName></sch:fieldName>
+    <sch:ruleType>Update</sch:ruleType>
+    <sch:ruleCode></sch:ruleCode>
+    <sch:ruleLanguage></sch:ruleLanguage>
+    <sch:ruleBody>bmfAggrModelManager.updateObjectType(context)</sch:ruleBody>
+    <sch:seqNumber>1</sch:seqNumber>
+    <sch:description></sch:description>
+</sch:Rule>

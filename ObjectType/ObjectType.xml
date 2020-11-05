@@ -508,7 +508,20 @@
             <sch:changeFields></sch:changeFields>
         </sch:BmfObjectField>
     </sch:bmfFields>
-    <sch:bmfRules/>
+    <sch:bmfRules>
+        <sch:BmfRule>
+            <sch:name>ObjectType</sch:name>
+            <sch:objectTypeName>ObjectType</sch:objectTypeName>
+            <sch:referenceName></sch:referenceName>
+            <sch:fieldName></sch:fieldName>
+            <sch:ruleType>Update</sch:ruleType>
+            <sch:ruleCode></sch:ruleCode>
+            <sch:ruleLanguage></sch:ruleLanguage>
+            <sch:ruleBody>bmfAggrModelManager.updateObjectType(context)</sch:ruleBody>
+            <sch:seqNumber>1</sch:seqNumber>
+            <sch:description></sch:description>
+        </sch:BmfRule>
+    </sch:bmfRules>
     <sch:bmfIndexRules/>
     <sch:objectTypeConfigs/>
 </sch:ObjectType>
