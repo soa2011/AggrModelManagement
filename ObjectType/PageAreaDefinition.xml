@@ -273,7 +273,7 @@
             <sch:changeFields></sch:changeFields>
         </sch:BmfObjectField>
         <sch:BmfObjectField>
-            <sch:name>OrdinalSeqNumber</sch:name>
+            <sch:name>SeqNumber</sch:name>
             <sch:dataType>Integer</sch:dataType>
             <sch:enumName></sch:enumName>
             <sch:length></sch:length>

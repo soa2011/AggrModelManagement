@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<sch:PageDefinition xmlns:sch="http://Baf.com/schemas" name="Page Area Definition Summary">
-    <sch:name>Page Area Definition Summary</sch:name>
+<sch:PageDefinition xmlns:sch="http://Baf.com/schemas" name="PageAreaDefinition Summary">
+    <sch:name>PageAreaDefinition Summary</sch:name>
     <sch:pageNumber></sch:pageNumber>
     <sch:pageType>Summary</sch:pageType>
     <sch:pageCondition></sch:pageCondition>
@@ -80,14 +80,14 @@
             <sch:changeFields></sch:changeFields>
         </sch:BmfPageField>
         <sch:BmfPageField>
-            <sch:name>OrdinalSeqNumber</sch:name>
+            <sch:name>SeqNumber</sch:name>
             <sch:seqNumber>122</sch:seqNumber>
             <sch:tabIndex>0</sch:tabIndex>
             <sch:tabPage></sch:tabPage>
             <sch:pageAreaName></sch:pageAreaName>
             <sch:fieldType>Text</sch:fieldType>
             <sch:refTargetType></sch:refTargetType>
-            <sch:label>SeqNo</sch:label>
+            <sch:label>SeqNumber</sch:label>
             <sch:controllingParameters></sch:controllingParameters>
             <sch:domainName></sch:domainName>
             <sch:dynaDomain></sch:dynaDomain>
