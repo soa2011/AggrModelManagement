@@ -604,7 +604,7 @@
             <sch:type>Item</sch:type>
             <sch:seqIndex>3700</sch:seqIndex>
             <sch:format>%s %s</sch:format>
-            <sch:columns>ColumnName,Description</sch:columns>
+            <sch:columns>Name,Type</sch:columns>
             <sch:action>No</sch:action>
             <sch:quoteDisplay>false</sch:quoteDisplay>
             <sch:description></sch:description>
