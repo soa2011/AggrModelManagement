@@ -7,8 +7,8 @@
     <sch:domainEntries>
         <sch:BmfDomainEntry>
             <sch:seqNumber>1</sch:seqNumber>
-            <sch:displayValue>Intializer</sch:displayValue>
-            <sch:dataValue>Intializer</sch:dataValue>
+            <sch:displayValue>Initializer</sch:displayValue>
+            <sch:dataValue>Initializer</sch:dataValue>
             <sch:keyValues>{}</sch:keyValues>
         </sch:BmfDomainEntry>
         <sch:BmfDomainEntry>
@@ -27,6 +27,24 @@
             <sch:seqNumber>4</sch:seqNumber>
             <sch:displayValue>DataFlow</sch:displayValue>
             <sch:dataValue>DataFlow</sch:dataValue>
+            <sch:keyValues>{}</sch:keyValues>
+        </sch:BmfDomainEntry>
+        <sch:BmfDomainEntry>
+            <sch:seqNumber>5</sch:seqNumber>
+            <sch:displayValue>OpenPage</sch:displayValue>
+            <sch:dataValue>OpenPage</sch:dataValue>
+            <sch:keyValues>{}</sch:keyValues>
+        </sch:BmfDomainEntry>
+        <sch:BmfDomainEntry>
+            <sch:seqNumber>6</sch:seqNumber>
+            <sch:displayValue>OpenDialog</sch:displayValue>
+            <sch:dataValue>OpenDialog</sch:dataValue>
+            <sch:keyValues>{}</sch:keyValues>
+        </sch:BmfDomainEntry>
+        <sch:BmfDomainEntry>
+            <sch:seqNumber>7</sch:seqNumber>
+            <sch:displayValue>ExitDialog</sch:displayValue>
+            <sch:dataValue>ExitDialog</sch:dataValue>
             <sch:keyValues>{}</sch:keyValues>
         </sch:BmfDomainEntry>
     </sch:domainEntries>
