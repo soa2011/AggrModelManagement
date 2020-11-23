@@ -710,46 +710,6 @@
             <sch:description></sch:description>
         </sch:BmfTreeNode>
         <sch:BmfTreeNode>
-            <sch:tableName>AreaComponentProperty</sch:tableName>
-            <sch:type>Collection</sch:type>
-            <sch:seqIndex>4008</sch:seqIndex>
-            <sch:format>ComponentProperties(%s)</sch:format>
-            <sch:columns>#count</sch:columns>
-            <sch:action></sch:action>
-            <sch:quoteDisplay>true</sch:quoteDisplay>
-            <sch:description></sch:description>
-        </sch:BmfTreeNode>
-        <sch:BmfTreeNode>
-            <sch:tableName>AreaComponentProperty</sch:tableName>
-            <sch:type>Item</sch:type>
-            <sch:seqIndex>4009</sch:seqIndex>
-            <sch:format>%s</sch:format>
-            <sch:columns>Name</sch:columns>
-            <sch:action>No</sch:action>
-            <sch:quoteDisplay>false</sch:quoteDisplay>
-            <sch:description></sch:description>
-        </sch:BmfTreeNode>
-        <sch:BmfTreeNode>
-            <sch:tableName>TabDefinition</sch:tableName>
-            <sch:type>Collection</sch:type>
-            <sch:seqIndex>4012</sch:seqIndex>
-            <sch:format>Tab Definitions(%s)</sch:format>
-            <sch:columns>#count</sch:columns>
-            <sch:action></sch:action>
-            <sch:quoteDisplay>true</sch:quoteDisplay>
-            <sch:description></sch:description>
-        </sch:BmfTreeNode>
-        <sch:BmfTreeNode>
-            <sch:tableName>TabDefinition</sch:tableName>
-            <sch:type>Item</sch:type>
-            <sch:seqIndex>4013</sch:seqIndex>
-            <sch:format>%s</sch:format>
-            <sch:columns>Name</sch:columns>
-            <sch:action></sch:action>
-            <sch:quoteDisplay>true</sch:quoteDisplay>
-            <sch:description></sch:description>
-        </sch:BmfTreeNode>
-        <sch:BmfTreeNode>
             <sch:tableName>RateTable</sch:tableName>
             <sch:type>Collection</sch:type>
             <sch:seqIndex>4014</sch:seqIndex>
