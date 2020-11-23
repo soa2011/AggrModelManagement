@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<sch:PageDefinition xmlns:sch="http://Baf.com/schemas" name="Detail Page Field Detail">
-    <sch:name>Detail Page Field Detail</sch:name>
+<sch:PageDefinition xmlns:sch="http://Baf.com/schemas" name="PageField Detail">
+    <sch:name>PageField Detail</sch:name>
     <sch:pageNumber></sch:pageNumber>
     <sch:pageType>Detail</sch:pageType>
     <sch:pageCondition></sch:pageCondition>
@@ -1055,7 +1055,7 @@
             <sch:name></sch:name>
             <sch:seqNumber>1250</sch:seqNumber>
             <sch:tabIndex>0</sch:tabIndex>
-            <sch:tabPage></sch:tabPage>
+            <sch:tabPage>Security</sch:tabPage>
             <sch:pageAreaName></sch:pageAreaName>
             <sch:fieldType>Section Header Begin</sch:fieldType>
             <sch:refTargetType></sch:refTargetType>
@@ -1106,7 +1106,7 @@
             <sch:name>DisplayResource</sch:name>
             <sch:seqNumber>1300</sch:seqNumber>
             <sch:tabIndex>0</sch:tabIndex>
-            <sch:tabPage></sch:tabPage>
+            <sch:tabPage>Security</sch:tabPage>
             <sch:pageAreaName></sch:pageAreaName>
             <sch:fieldType>ObjectSelector</sch:fieldType>
             <sch:refTargetType>SecurityToken</sch:refTargetType>
@@ -1157,7 +1157,7 @@
             <sch:name>ModifyResource</sch:name>
             <sch:seqNumber>1400</sch:seqNumber>
             <sch:tabIndex>0</sch:tabIndex>
-            <sch:tabPage></sch:tabPage>
+            <sch:tabPage>Security</sch:tabPage>
             <sch:pageAreaName></sch:pageAreaName>
             <sch:fieldType>ObjectSelector</sch:fieldType>
             <sch:refTargetType>SecurityToken</sch:refTargetType>
@@ -1208,7 +1208,7 @@
             <sch:name>Width</sch:name>
             <sch:seqNumber>1500</sch:seqNumber>
             <sch:tabIndex>0</sch:tabIndex>
-            <sch:tabPage></sch:tabPage>
+            <sch:tabPage>Security</sch:tabPage>
             <sch:pageAreaName></sch:pageAreaName>
             <sch:fieldType>Edit</sch:fieldType>
             <sch:refTargetType></sch:refTargetType>
@@ -1259,7 +1259,7 @@
             <sch:name>Height</sch:name>
             <sch:seqNumber>1600</sch:seqNumber>
             <sch:tabIndex>0</sch:tabIndex>
-            <sch:tabPage></sch:tabPage>
+            <sch:tabPage>Security</sch:tabPage>
             <sch:pageAreaName></sch:pageAreaName>
             <sch:fieldType>Edit</sch:fieldType>
             <sch:refTargetType></sch:refTargetType>
@@ -1310,7 +1310,7 @@
             <sch:name>ReferenceTableName</sch:name>
             <sch:seqNumber>1600</sch:seqNumber>
             <sch:tabIndex>0</sch:tabIndex>
-            <sch:tabPage></sch:tabPage>
+            <sch:tabPage>Security</sch:tabPage>
             <sch:pageAreaName></sch:pageAreaName>
             <sch:fieldType>Select</sch:fieldType>
             <sch:refTargetType></sch:refTargetType>
@@ -1362,7 +1362,7 @@
             <sch:name>RowSpan</sch:name>
             <sch:seqNumber>1610</sch:seqNumber>
             <sch:tabIndex>0</sch:tabIndex>
-            <sch:tabPage></sch:tabPage>
+            <sch:tabPage>Security</sch:tabPage>
             <sch:pageAreaName></sch:pageAreaName>
             <sch:fieldType>Edit</sch:fieldType>
             <sch:refTargetType></sch:refTargetType>
@@ -1413,7 +1413,7 @@
             <sch:name>ColSpan</sch:name>
             <sch:seqNumber>1620</sch:seqNumber>
             <sch:tabIndex>0</sch:tabIndex>
-            <sch:tabPage></sch:tabPage>
+            <sch:tabPage>Security</sch:tabPage>
             <sch:pageAreaName></sch:pageAreaName>
             <sch:fieldType>Edit</sch:fieldType>
             <sch:refTargetType></sch:refTargetType>
@@ -1464,7 +1464,7 @@
             <sch:name>TabIndex</sch:name>
             <sch:seqNumber>1650</sch:seqNumber>
             <sch:tabIndex>0</sch:tabIndex>
-            <sch:tabPage></sch:tabPage>
+            <sch:tabPage>Security</sch:tabPage>
             <sch:pageAreaName></sch:pageAreaName>
             <sch:fieldType>Edit</sch:fieldType>
             <sch:refTargetType></sch:refTargetType>
@@ -1515,7 +1515,7 @@
             <sch:name>TabPage</sch:name>
             <sch:seqNumber>1660</sch:seqNumber>
             <sch:tabIndex>0</sch:tabIndex>
-            <sch:tabPage></sch:tabPage>
+            <sch:tabPage>Security</sch:tabPage>
             <sch:pageAreaName></sch:pageAreaName>
             <sch:fieldType>Edit</sch:fieldType>
             <sch:refTargetType></sch:refTargetType>
@@ -1566,7 +1566,7 @@
             <sch:name>Display</sch:name>
             <sch:seqNumber>1700</sch:seqNumber>
             <sch:tabIndex>0</sch:tabIndex>
-            <sch:tabPage></sch:tabPage>
+            <sch:tabPage>Security</sch:tabPage>
             <sch:pageAreaName></sch:pageAreaName>
             <sch:fieldType>Checkbox</sch:fieldType>
             <sch:refTargetType></sch:refTargetType>
@@ -1617,7 +1617,7 @@
             <sch:name>Required</sch:name>
             <sch:seqNumber>1800</sch:seqNumber>
             <sch:tabIndex>0</sch:tabIndex>
-            <sch:tabPage></sch:tabPage>
+            <sch:tabPage>Security</sch:tabPage>
             <sch:pageAreaName></sch:pageAreaName>
             <sch:fieldType>Checkbox</sch:fieldType>
             <sch:refTargetType></sch:refTargetType>
@@ -1668,7 +1668,7 @@
             <sch:name>ReadOnly</sch:name>
             <sch:seqNumber>1850</sch:seqNumber>
             <sch:tabIndex>0</sch:tabIndex>
-            <sch:tabPage></sch:tabPage>
+            <sch:tabPage>Security</sch:tabPage>
             <sch:pageAreaName></sch:pageAreaName>
             <sch:fieldType>Checkbox</sch:fieldType>
             <sch:refTargetType></sch:refTargetType>
@@ -1719,7 +1719,7 @@
             <sch:name>Minimum</sch:name>
             <sch:seqNumber>2060</sch:seqNumber>
             <sch:tabIndex>0</sch:tabIndex>
-            <sch:tabPage></sch:tabPage>
+            <sch:tabPage>Security</sch:tabPage>
             <sch:pageAreaName></sch:pageAreaName>
             <sch:fieldType>Edit</sch:fieldType>
             <sch:refTargetType></sch:refTargetType>
@@ -1770,7 +1770,7 @@
             <sch:name>Maximum</sch:name>
             <sch:seqNumber>2070</sch:seqNumber>
             <sch:tabIndex>0</sch:tabIndex>
-            <sch:tabPage></sch:tabPage>
+            <sch:tabPage>Security</sch:tabPage>
             <sch:pageAreaName></sch:pageAreaName>
             <sch:fieldType>Edit</sch:fieldType>
             <sch:refTargetType></sch:refTargetType>
@@ -1821,7 +1821,7 @@
             <sch:name>DisplayCondition</sch:name>
             <sch:seqNumber>2100</sch:seqNumber>
             <sch:tabIndex>0</sch:tabIndex>
-            <sch:tabPage></sch:tabPage>
+            <sch:tabPage>Security</sch:tabPage>
             <sch:pageAreaName></sch:pageAreaName>
             <sch:fieldType>Edit</sch:fieldType>
             <sch:refTargetType></sch:refTargetType>
@@ -1872,7 +1872,7 @@
             <sch:name>RequiredCondition</sch:name>
             <sch:seqNumber>2200</sch:seqNumber>
             <sch:tabIndex>0</sch:tabIndex>
-            <sch:tabPage></sch:tabPage>
+            <sch:tabPage>Security</sch:tabPage>
             <sch:pageAreaName></sch:pageAreaName>
             <sch:fieldType>Edit</sch:fieldType>
             <sch:refTargetType></sch:refTargetType>
@@ -1923,7 +1923,7 @@
             <sch:name>Auditable</sch:name>
             <sch:seqNumber>2300</sch:seqNumber>
             <sch:tabIndex>0</sch:tabIndex>
-            <sch:tabPage></sch:tabPage>
+            <sch:tabPage>Security</sch:tabPage>
             <sch:pageAreaName></sch:pageAreaName>
             <sch:fieldType>Checkbox</sch:fieldType>
             <sch:refTargetType></sch:refTargetType>
@@ -1974,7 +1974,7 @@
             <sch:name>AuditCondition</sch:name>
             <sch:seqNumber>2400</sch:seqNumber>
             <sch:tabIndex>0</sch:tabIndex>
-            <sch:tabPage></sch:tabPage>
+            <sch:tabPage>Security</sch:tabPage>
             <sch:pageAreaName></sch:pageAreaName>
             <sch:fieldType>Edit</sch:fieldType>
             <sch:refTargetType></sch:refTargetType>
@@ -2025,7 +2025,7 @@
             <sch:name></sch:name>
             <sch:seqNumber>2500</sch:seqNumber>
             <sch:tabIndex>0</sch:tabIndex>
-            <sch:tabPage></sch:tabPage>
+            <sch:tabPage>ExtInfo</sch:tabPage>
             <sch:pageAreaName></sch:pageAreaName>
             <sch:fieldType>Section Header Begin</sch:fieldType>
             <sch:refTargetType></sch:refTargetType>
@@ -2076,7 +2076,7 @@
             <sch:name>SingleYesIndicator</sch:name>
             <sch:seqNumber>2610</sch:seqNumber>
             <sch:tabIndex>0</sch:tabIndex>
-            <sch:tabPage></sch:tabPage>
+            <sch:tabPage>ExtInfo</sch:tabPage>
             <sch:pageAreaName></sch:pageAreaName>
             <sch:fieldType>Checkbox</sch:fieldType>
             <sch:refTargetType></sch:refTargetType>
@@ -2128,7 +2128,7 @@
             <sch:name>UniqueValueIndicator</sch:name>
             <sch:seqNumber>2620</sch:seqNumber>
             <sch:tabIndex>0</sch:tabIndex>
-            <sch:tabPage></sch:tabPage>
+            <sch:tabPage>ExtInfo</sch:tabPage>
             <sch:pageAreaName></sch:pageAreaName>
             <sch:fieldType>Checkbox</sch:fieldType>
             <sch:refTargetType></sch:refTargetType>
@@ -2180,7 +2180,7 @@
             <sch:name>Sortable</sch:name>
             <sch:seqNumber>2630</sch:seqNumber>
             <sch:tabIndex>0</sch:tabIndex>
-            <sch:tabPage></sch:tabPage>
+            <sch:tabPage>ExtInfo</sch:tabPage>
             <sch:pageAreaName></sch:pageAreaName>
             <sch:fieldType>Checkbox</sch:fieldType>
             <sch:refTargetType></sch:refTargetType>
@@ -2232,7 +2232,7 @@
             <sch:name>SortOrder</sch:name>
             <sch:seqNumber>2640</sch:seqNumber>
             <sch:tabIndex>0</sch:tabIndex>
-            <sch:tabPage></sch:tabPage>
+            <sch:tabPage>ExtInfo</sch:tabPage>
             <sch:pageAreaName></sch:pageAreaName>
             <sch:fieldType>Select</sch:fieldType>
             <sch:refTargetType></sch:refTargetType>
@@ -2284,7 +2284,7 @@
             <sch:name>FilterType</sch:name>
             <sch:seqNumber>2650</sch:seqNumber>
             <sch:tabIndex>0</sch:tabIndex>
-            <sch:tabPage></sch:tabPage>
+            <sch:tabPage>ExtInfo</sch:tabPage>
             <sch:pageAreaName></sch:pageAreaName>
             <sch:fieldType>Select</sch:fieldType>
             <sch:refTargetType></sch:refTargetType>
@@ -2336,7 +2336,7 @@
             <sch:name>Constraints</sch:name>
             <sch:seqNumber>2650</sch:seqNumber>
             <sch:tabIndex>0</sch:tabIndex>
-            <sch:tabPage></sch:tabPage>
+            <sch:tabPage>ExtInfo</sch:tabPage>
             <sch:pageAreaName></sch:pageAreaName>
             <sch:fieldType>Edit</sch:fieldType>
             <sch:refTargetType></sch:refTargetType>
@@ -2387,7 +2387,7 @@
             <sch:name>KeyAlias</sch:name>
             <sch:seqNumber>2650</sch:seqNumber>
             <sch:tabIndex>0</sch:tabIndex>
-            <sch:tabPage></sch:tabPage>
+            <sch:tabPage>ExtInfo</sch:tabPage>
             <sch:pageAreaName></sch:pageAreaName>
             <sch:fieldType>Edit</sch:fieldType>
             <sch:refTargetType></sch:refTargetType>
@@ -2438,7 +2438,7 @@
             <sch:name>DynaDomain</sch:name>
             <sch:seqNumber>2650</sch:seqNumber>
             <sch:tabIndex>0</sch:tabIndex>
-            <sch:tabPage></sch:tabPage>
+            <sch:tabPage>ExtInfo</sch:tabPage>
             <sch:pageAreaName></sch:pageAreaName>
             <sch:fieldType>Edit</sch:fieldType>
             <sch:refTargetType></sch:refTargetType>
@@ -2489,9 +2489,9 @@
             <sch:name>Description</sch:name>
             <sch:seqNumber>2700</sch:seqNumber>
             <sch:tabIndex>0</sch:tabIndex>
-            <sch:tabPage></sch:tabPage>
+            <sch:tabPage>ExtInfo</sch:tabPage>
             <sch:pageAreaName></sch:pageAreaName>
-            <sch:fieldType>TextArea</sch:fieldType>
+            <sch:fieldType>Edit</sch:fieldType>
             <sch:refTargetType></sch:refTargetType>
             <sch:label>Description</sch:label>
             <sch:controllingParameters></sch:controllingParameters>
@@ -2540,7 +2540,7 @@
             <sch:name>ChangeType</sch:name>
             <sch:seqNumber>4650</sch:seqNumber>
             <sch:tabIndex>0</sch:tabIndex>
-            <sch:tabPage></sch:tabPage>
+            <sch:tabPage>ExtInfo</sch:tabPage>
             <sch:pageAreaName></sch:pageAreaName>
             <sch:fieldType>Select</sch:fieldType>
             <sch:refTargetType></sch:refTargetType>
@@ -2592,11 +2592,62 @@
             <sch:name>ChangeFields</sch:name>
             <sch:seqNumber>4700</sch:seqNumber>
             <sch:tabIndex>0</sch:tabIndex>
-            <sch:tabPage></sch:tabPage>
+            <sch:tabPage>ExtInfo</sch:tabPage>
             <sch:pageAreaName></sch:pageAreaName>
             <sch:fieldType>TextArea</sch:fieldType>
             <sch:refTargetType></sch:refTargetType>
             <sch:label>ChangeFields</sch:label>
+            <sch:controllingParameters></sch:controllingParameters>
+            <sch:domainName></sch:domainName>
+            <sch:dynaDomain></sch:dynaDomain>
+            <sch:dependency></sch:dependency>
+            <sch:defaultValue></sch:defaultValue>
+            <sch:mask></sch:mask>
+            <sch:relatedFields></sch:relatedFields>
+            <sch:relatedRules></sch:relatedRules>
+            <sch:helpText></sch:helpText>
+            <sch:help></sch:help>
+            <sch:width>120</sch:width>
+            <sch:height>10</sch:height>
+            <sch:rowSpan>1</sch:rowSpan>
+            <sch:colSpan>1</sch:colSpan>
+            <sch:sortable>false</sch:sortable>
+            <sch:sortOrder></sch:sortOrder>
+            <sch:filterType></sch:filterType>
+            <sch:display>true</sch:display>
+            <sch:required>false</sch:required>
+            <sch:displayCondition></sch:displayCondition>
+            <sch:requiredCondition></sch:requiredCondition>
+            <sch:readOnlyCondition></sch:readOnlyCondition>
+            <sch:displayResource></sch:displayResource>
+            <sch:modifyResource></sch:modifyResource>
+            <sch:displayResource2></sch:displayResource2>
+            <sch:modifyResource2></sch:modifyResource2>
+            <sch:singleYesIndicator>false</sch:singleYesIndicator>
+            <sch:uniqueValueIndicator>false</sch:uniqueValueIndicator>
+            <sch:constraints></sch:constraints>
+            <sch:description></sch:description>
+            <sch:className></sch:className>
+            <sch:formatter></sch:formatter>
+            <sch:valueType></sch:valueType>
+            <sch:readOnly>false</sch:readOnly>
+            <sch:minimum></sch:minimum>
+            <sch:maximum></sch:maximum>
+            <sch:fieldLinkExpression></sch:fieldLinkExpression>
+            <sch:filterCriteria></sch:filterCriteria>
+            <sch:eventHandler></sch:eventHandler>
+            <sch:changeType></sch:changeType>
+            <sch:changeFields></sch:changeFields>
+        </sch:BmfPageField>
+        <sch:BmfPageField>
+            <sch:name>Props</sch:name>
+            <sch:seqNumber>4800</sch:seqNumber>
+            <sch:tabIndex>0</sch:tabIndex>
+            <sch:tabPage>ExtInfo</sch:tabPage>
+            <sch:pageAreaName></sch:pageAreaName>
+            <sch:fieldType>CodeEdit</sch:fieldType>
+            <sch:refTargetType></sch:refTargetType>
+            <sch:label>Props</sch:label>
             <sch:controllingParameters></sch:controllingParameters>
             <sch:domainName></sch:domainName>
             <sch:dynaDomain></sch:dynaDomain>

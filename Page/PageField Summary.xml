@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<sch:PageDefinition xmlns:sch="http://Baf.com/schemas" name="Detail Page Field Summary">
-    <sch:name>Detail Page Field Summary</sch:name>
+<sch:PageDefinition xmlns:sch="http://Baf.com/schemas" name="PageField Summary">
+    <sch:name>PageField Summary</sch:name>
     <sch:pageNumber></sch:pageNumber>
     <sch:pageType>Summary</sch:pageType>
     <sch:pageCondition></sch:pageCondition>

@@ -43,54 +43,48 @@
         </sch:BmfDomainEntry>
         <sch:BmfDomainEntry>
             <sch:seqNumber>7</sch:seqNumber>
-            <sch:displayValue>EntitySelector</sch:displayValue>
-            <sch:dataValue>EntitySelector</sch:dataValue>
-            <sch:keyValues>{}</sch:keyValues>
-        </sch:BmfDomainEntry>
-        <sch:BmfDomainEntry>
-            <sch:seqNumber>8</sch:seqNumber>
             <sch:displayValue>ObjectSelector</sch:displayValue>
             <sch:dataValue>ObjectSelector</sch:dataValue>
             <sch:keyValues>{}</sch:keyValues>
         </sch:BmfDomainEntry>
         <sch:BmfDomainEntry>
-            <sch:seqNumber>9</sch:seqNumber>
+            <sch:seqNumber>8</sch:seqNumber>
             <sch:displayValue>DynaObjectSelector</sch:displayValue>
             <sch:dataValue>DynaObjectSelector</sch:dataValue>
             <sch:keyValues>{}</sch:keyValues>
         </sch:BmfDomainEntry>
         <sch:BmfDomainEntry>
-            <sch:seqNumber>10</sch:seqNumber>
+            <sch:seqNumber>9</sch:seqNumber>
             <sch:displayValue>Section Header Begin</sch:displayValue>
             <sch:dataValue>Section Header Begin</sch:dataValue>
             <sch:keyValues>{}</sch:keyValues>
         </sch:BmfDomainEntry>
         <sch:BmfDomainEntry>
-            <sch:seqNumber>11</sch:seqNumber>
+            <sch:seqNumber>10</sch:seqNumber>
             <sch:displayValue>Checkbox</sch:displayValue>
             <sch:dataValue>Checkbox</sch:dataValue>
             <sch:keyValues>{}</sch:keyValues>
         </sch:BmfDomainEntry>
         <sch:BmfDomainEntry>
-            <sch:seqNumber>12</sch:seqNumber>
+            <sch:seqNumber>11</sch:seqNumber>
             <sch:displayValue>Radiobox</sch:displayValue>
             <sch:dataValue>Radiobox</sch:dataValue>
             <sch:keyValues>{}</sch:keyValues>
         </sch:BmfDomainEntry>
         <sch:BmfDomainEntry>
-            <sch:seqNumber>13</sch:seqNumber>
+            <sch:seqNumber>12</sch:seqNumber>
             <sch:displayValue>Radiobox-Vertical</sch:displayValue>
             <sch:dataValue>Radiobox-Vertical</sch:dataValue>
             <sch:keyValues>{}</sch:keyValues>
         </sch:BmfDomainEntry>
         <sch:BmfDomainEntry>
-            <sch:seqNumber>14</sch:seqNumber>
+            <sch:seqNumber>13</sch:seqNumber>
             <sch:displayValue>Section Header End</sch:displayValue>
             <sch:dataValue>Section Header End</sch:dataValue>
             <sch:keyValues>{}</sch:keyValues>
         </sch:BmfDomainEntry>
         <sch:BmfDomainEntry>
-            <sch:seqNumber>15</sch:seqNumber>
+            <sch:seqNumber>14</sch:seqNumber>
             <sch:displayValue>Button</sch:displayValue>
             <sch:dataValue>Button</sch:dataValue>
             <sch:keyValues>{}</sch:keyValues>
