@@ -185,7 +185,7 @@
             <sch:name>BindingXpath</sch:name>
             <sch:seqNumber>200</sch:seqNumber>
             <sch:tabIndex>0</sch:tabIndex>
-            <sch:tabPage>AreaInfo</sch:tabPage>
+            <sch:tabPage></sch:tabPage>
             <sch:pageAreaName></sch:pageAreaName>
             <sch:fieldType>Edit</sch:fieldType>
             <sch:refTargetType></sch:refTargetType>
@@ -236,7 +236,7 @@
             <sch:name>ParentNodeId</sch:name>
             <sch:seqNumber>250</sch:seqNumber>
             <sch:tabIndex>0</sch:tabIndex>
-            <sch:tabPage>AreaInfo</sch:tabPage>
+            <sch:tabPage></sch:tabPage>
             <sch:pageAreaName></sch:pageAreaName>
             <sch:fieldType>ObjectSelector</sch:fieldType>
             <sch:refTargetType>DetailPageField</sch:refTargetType>
