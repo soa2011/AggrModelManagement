@@ -207,7 +207,7 @@
             <sch:changeFields></sch:changeFields>
         </sch:BmfObjectField>
         <sch:BmfObjectField>
-            <sch:name>DisplayCondition</sch:name>
+            <sch:name>ScriptBody</sch:name>
             <sch:dataType>Char</sch:dataType>
             <sch:enumName></sch:enumName>
             <sch:length>4000</sch:length>
