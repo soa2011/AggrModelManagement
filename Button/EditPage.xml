@@ -2,9 +2,9 @@
 <sch:Button xmlns:sch="http://Baf.com/schemas" name="EditPage">
     <sch:name>EditPage</sch:name>
     <sch:label>EditPage</sch:label>
-    <sch:behavior>ExecuteJavaScript</sch:behavior>
+    <sch:behavior>DynamicRoute</sch:behavior>
     <sch:bmfTransactionName></sch:bmfTransactionName>
-    <sch:content>editPage()</sch:content>
+    <sch:content>/PageBuilderX/${oid}</sch:content>
     <sch:appliesTo></sch:appliesTo>
     <sch:securityToken></sch:securityToken>
     <sch:description></sch:description>
