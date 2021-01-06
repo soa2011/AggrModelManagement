@@ -35,6 +35,7 @@
             <sch:tabPage></sch:tabPage>
             <sch:pageAreaName></sch:pageAreaName>
             <sch:fieldType>Edit</sch:fieldType>
+            <sch:widgetType></sch:widgetType>
             <sch:refTargetType></sch:refTargetType>
             <sch:label>Name</sch:label>
             <sch:controllingParameters></sch:controllingParameters>
@@ -78,6 +79,8 @@
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
             <sch:changeFields></sch:changeFields>
+            <sch:dataSourceType></sch:dataSourceType>
+            <sch:anchorObjectTypeName></sch:anchorObjectTypeName>
         </sch:BmfPageField>
         <sch:BmfPageField>
             <sch:name>Label</sch:name>
@@ -86,6 +89,7 @@
             <sch:tabPage></sch:tabPage>
             <sch:pageAreaName></sch:pageAreaName>
             <sch:fieldType>Edit</sch:fieldType>
+            <sch:widgetType></sch:widgetType>
             <sch:refTargetType></sch:refTargetType>
             <sch:label>Label</sch:label>
             <sch:controllingParameters></sch:controllingParameters>
@@ -129,6 +133,8 @@
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
             <sch:changeFields></sch:changeFields>
+            <sch:dataSourceType></sch:dataSourceType>
+            <sch:anchorObjectTypeName></sch:anchorObjectTypeName>
         </sch:BmfPageField>
         <sch:BmfPageField>
             <sch:name>TransType</sch:name>
@@ -137,6 +143,7 @@
             <sch:tabPage></sch:tabPage>
             <sch:pageAreaName></sch:pageAreaName>
             <sch:fieldType>Select</sch:fieldType>
+            <sch:widgetType></sch:widgetType>
             <sch:refTargetType></sch:refTargetType>
             <sch:label>Trans Type</sch:label>
             <sch:controllingParameters></sch:controllingParameters>
@@ -180,6 +187,8 @@
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
             <sch:changeFields></sch:changeFields>
+            <sch:dataSourceType></sch:dataSourceType>
+            <sch:anchorObjectTypeName></sch:anchorObjectTypeName>
             <sch:bmfDomain isRef="true">TransType</sch:bmfDomain>
         </sch:BmfPageField>
         <sch:BmfPageField>
@@ -189,6 +198,7 @@
             <sch:tabPage></sch:tabPage>
             <sch:pageAreaName></sch:pageAreaName>
             <sch:fieldType>Select</sch:fieldType>
+            <sch:widgetType></sch:widgetType>
             <sch:refTargetType></sch:refTargetType>
             <sch:label>Logic Type</sch:label>
             <sch:controllingParameters></sch:controllingParameters>
@@ -232,6 +242,8 @@
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
             <sch:changeFields></sch:changeFields>
+            <sch:dataSourceType></sch:dataSourceType>
+            <sch:anchorObjectTypeName></sch:anchorObjectTypeName>
             <sch:bmfDomain isRef="true">LogicType</sch:bmfDomain>
         </sch:BmfPageField>
         <sch:BmfPageField>
@@ -241,6 +253,7 @@
             <sch:tabPage></sch:tabPage>
             <sch:pageAreaName></sch:pageAreaName>
             <sch:fieldType>TextArea</sch:fieldType>
+            <sch:widgetType></sch:widgetType>
             <sch:refTargetType></sch:refTargetType>
             <sch:label>Method Body</sch:label>
             <sch:controllingParameters></sch:controllingParameters>
@@ -284,6 +297,8 @@
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
             <sch:changeFields></sch:changeFields>
+            <sch:dataSourceType></sch:dataSourceType>
+            <sch:anchorObjectTypeName></sch:anchorObjectTypeName>
         </sch:BmfPageField>
         <sch:BmfPageField>
             <sch:name>PageDefinition</sch:name>
@@ -292,6 +307,7 @@
             <sch:tabPage></sch:tabPage>
             <sch:pageAreaName></sch:pageAreaName>
             <sch:fieldType>Select</sch:fieldType>
+            <sch:widgetType></sch:widgetType>
             <sch:refTargetType></sch:refTargetType>
             <sch:label>Page Definition</sch:label>
             <sch:controllingParameters></sch:controllingParameters>
@@ -335,6 +351,8 @@
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
             <sch:changeFields></sch:changeFields>
+            <sch:dataSourceType></sch:dataSourceType>
+            <sch:anchorObjectTypeName></sch:anchorObjectTypeName>
             <sch:bmfDomain isRef="true">PageDefinition</sch:bmfDomain>
         </sch:BmfPageField>
         <sch:BmfPageField>
@@ -344,6 +362,7 @@
             <sch:tabPage></sch:tabPage>
             <sch:pageAreaName></sch:pageAreaName>
             <sch:fieldType>Edit</sch:fieldType>
+            <sch:widgetType></sch:widgetType>
             <sch:refTargetType></sch:refTargetType>
             <sch:label>TargetObjectType</sch:label>
             <sch:controllingParameters></sch:controllingParameters>
@@ -387,6 +406,8 @@
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
             <sch:changeFields></sch:changeFields>
+            <sch:dataSourceType></sch:dataSourceType>
+            <sch:anchorObjectTypeName></sch:anchorObjectTypeName>
         </sch:BmfPageField>
         <sch:BmfPageField>
             <sch:name>RefreshMode</sch:name>
@@ -395,6 +416,7 @@
             <sch:tabPage></sch:tabPage>
             <sch:pageAreaName></sch:pageAreaName>
             <sch:fieldType>Edit</sch:fieldType>
+            <sch:widgetType></sch:widgetType>
             <sch:refTargetType></sch:refTargetType>
             <sch:label>RefreshMode</sch:label>
             <sch:controllingParameters></sch:controllingParameters>
@@ -438,6 +460,8 @@
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
             <sch:changeFields></sch:changeFields>
+            <sch:dataSourceType></sch:dataSourceType>
+            <sch:anchorObjectTypeName></sch:anchorObjectTypeName>
         </sch:BmfPageField>
         <sch:BmfPageField>
             <sch:name>ProcessDefinition</sch:name>
@@ -446,6 +470,7 @@
             <sch:tabPage></sch:tabPage>
             <sch:pageAreaName></sch:pageAreaName>
             <sch:fieldType>Edit</sch:fieldType>
+            <sch:widgetType></sch:widgetType>
             <sch:refTargetType></sch:refTargetType>
             <sch:label>Process Definition</sch:label>
             <sch:controllingParameters></sch:controllingParameters>
@@ -489,6 +514,8 @@
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
             <sch:changeFields></sch:changeFields>
+            <sch:dataSourceType></sch:dataSourceType>
+            <sch:anchorObjectTypeName></sch:anchorObjectTypeName>
         </sch:BmfPageField>
         <sch:BmfPageField>
             <sch:name>NewStatus</sch:name>
@@ -497,6 +524,7 @@
             <sch:tabPage></sch:tabPage>
             <sch:pageAreaName></sch:pageAreaName>
             <sch:fieldType>Edit</sch:fieldType>
+            <sch:widgetType></sch:widgetType>
             <sch:refTargetType></sch:refTargetType>
             <sch:label>New Status</sch:label>
             <sch:controllingParameters></sch:controllingParameters>
@@ -540,6 +568,8 @@
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
             <sch:changeFields></sch:changeFields>
+            <sch:dataSourceType></sch:dataSourceType>
+            <sch:anchorObjectTypeName></sch:anchorObjectTypeName>
         </sch:BmfPageField>
         <sch:BmfPageField>
             <sch:name>SecurityToken</sch:name>
@@ -548,6 +578,7 @@
             <sch:tabPage></sch:tabPage>
             <sch:pageAreaName></sch:pageAreaName>
             <sch:fieldType>ObjectSelector</sch:fieldType>
+            <sch:widgetType></sch:widgetType>
             <sch:refTargetType>SecurityToken</sch:refTargetType>
             <sch:label>Security Token</sch:label>
             <sch:controllingParameters></sch:controllingParameters>
@@ -591,6 +622,8 @@
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
             <sch:changeFields></sch:changeFields>
+            <sch:dataSourceType></sch:dataSourceType>
+            <sch:anchorObjectTypeName></sch:anchorObjectTypeName>
         </sch:BmfPageField>
         <sch:BmfPageField>
             <sch:name>EventToFire</sch:name>
@@ -599,6 +632,7 @@
             <sch:tabPage></sch:tabPage>
             <sch:pageAreaName></sch:pageAreaName>
             <sch:fieldType>Edit</sch:fieldType>
+            <sch:widgetType></sch:widgetType>
             <sch:refTargetType></sch:refTargetType>
             <sch:label>Event To Fire</sch:label>
             <sch:controllingParameters></sch:controllingParameters>
@@ -642,6 +676,8 @@
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
             <sch:changeFields></sch:changeFields>
+            <sch:dataSourceType></sch:dataSourceType>
+            <sch:anchorObjectTypeName></sch:anchorObjectTypeName>
         </sch:BmfPageField>
         <sch:BmfPageField>
             <sch:name>VersionMode</sch:name>
@@ -650,6 +686,7 @@
             <sch:tabPage></sch:tabPage>
             <sch:pageAreaName></sch:pageAreaName>
             <sch:fieldType>Select</sch:fieldType>
+            <sch:widgetType></sch:widgetType>
             <sch:refTargetType></sch:refTargetType>
             <sch:label>Version Mode</sch:label>
             <sch:controllingParameters></sch:controllingParameters>
@@ -693,6 +730,8 @@
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
             <sch:changeFields></sch:changeFields>
+            <sch:dataSourceType></sch:dataSourceType>
+            <sch:anchorObjectTypeName></sch:anchorObjectTypeName>
             <sch:bmfDomain isRef="true">VersionMode</sch:bmfDomain>
         </sch:BmfPageField>
         <sch:BmfPageField>
@@ -702,6 +741,7 @@
             <sch:tabPage></sch:tabPage>
             <sch:pageAreaName></sch:pageAreaName>
             <sch:fieldType>Select</sch:fieldType>
+            <sch:widgetType></sch:widgetType>
             <sch:refTargetType></sch:refTargetType>
             <sch:label>Execution Mode</sch:label>
             <sch:controllingParameters></sch:controllingParameters>
@@ -745,6 +785,8 @@
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
             <sch:changeFields></sch:changeFields>
+            <sch:dataSourceType></sch:dataSourceType>
+            <sch:anchorObjectTypeName></sch:anchorObjectTypeName>
             <sch:bmfDomain isRef="true">ExecutionMode</sch:bmfDomain>
         </sch:BmfPageField>
         <sch:BmfPageField>
@@ -754,6 +796,7 @@
             <sch:tabPage></sch:tabPage>
             <sch:pageAreaName></sch:pageAreaName>
             <sch:fieldType>Edit</sch:fieldType>
+            <sch:widgetType></sch:widgetType>
             <sch:refTargetType></sch:refTargetType>
             <sch:label>Business Transaction</sch:label>
             <sch:controllingParameters></sch:controllingParameters>
@@ -797,6 +840,8 @@
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
             <sch:changeFields></sch:changeFields>
+            <sch:dataSourceType></sch:dataSourceType>
+            <sch:anchorObjectTypeName></sch:anchorObjectTypeName>
         </sch:BmfPageField>
         <sch:BmfPageField>
             <sch:name>Description</sch:name>
@@ -805,6 +850,7 @@
             <sch:tabPage></sch:tabPage>
             <sch:pageAreaName></sch:pageAreaName>
             <sch:fieldType>TextArea</sch:fieldType>
+            <sch:widgetType></sch:widgetType>
             <sch:refTargetType></sch:refTargetType>
             <sch:label>Description</sch:label>
             <sch:controllingParameters></sch:controllingParameters>
@@ -848,6 +894,8 @@
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
             <sch:changeFields></sch:changeFields>
+            <sch:dataSourceType></sch:dataSourceType>
+            <sch:anchorObjectTypeName></sch:anchorObjectTypeName>
         </sch:BmfPageField>
         <sch:BmfPageField>
             <sch:name>AggrModelId</sch:name>
@@ -856,6 +904,7 @@
             <sch:tabPage></sch:tabPage>
             <sch:pageAreaName></sch:pageAreaName>
             <sch:fieldType>ObjectSelector</sch:fieldType>
+            <sch:widgetType></sch:widgetType>
             <sch:refTargetType>AggrModelDefinition</sch:refTargetType>
             <sch:label>AggrModel</sch:label>
             <sch:controllingParameters></sch:controllingParameters>
@@ -899,6 +948,8 @@
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
             <sch:changeFields></sch:changeFields>
+            <sch:dataSourceType></sch:dataSourceType>
+            <sch:anchorObjectTypeName></sch:anchorObjectTypeName>
         </sch:BmfPageField>
     </sch:fields>
     <sch:variables/>
