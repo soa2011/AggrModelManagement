@@ -79,6 +79,7 @@
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
             <sch:changeFields></sch:changeFields>
+            <sch:props></sch:props>
             <sch:dataSourceType></sch:dataSourceType>
             <sch:anchorObjectTypeName></sch:anchorObjectTypeName>
         </sch:BmfPageField>
@@ -133,6 +134,7 @@
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
             <sch:changeFields></sch:changeFields>
+            <sch:props></sch:props>
             <sch:dataSourceType></sch:dataSourceType>
             <sch:anchorObjectTypeName></sch:anchorObjectTypeName>
         </sch:BmfPageField>
@@ -187,6 +189,7 @@
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
             <sch:changeFields></sch:changeFields>
+            <sch:props></sch:props>
             <sch:dataSourceType></sch:dataSourceType>
             <sch:anchorObjectTypeName></sch:anchorObjectTypeName>
             <sch:bmfDomain isRef="true">FieldType</sch:bmfDomain>
@@ -242,6 +245,7 @@
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
             <sch:changeFields></sch:changeFields>
+            <sch:props></sch:props>
             <sch:dataSourceType></sch:dataSourceType>
             <sch:anchorObjectTypeName></sch:anchorObjectTypeName>
         </sch:BmfPageField>
@@ -296,6 +300,7 @@
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
             <sch:changeFields></sch:changeFields>
+            <sch:props></sch:props>
             <sch:dataSourceType></sch:dataSourceType>
             <sch:anchorObjectTypeName></sch:anchorObjectTypeName>
         </sch:BmfPageField>
@@ -350,6 +355,7 @@
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
             <sch:changeFields></sch:changeFields>
+            <sch:props></sch:props>
             <sch:dataSourceType></sch:dataSourceType>
             <sch:anchorObjectTypeName></sch:anchorObjectTypeName>
         </sch:BmfPageField>
@@ -404,6 +410,7 @@
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
             <sch:changeFields></sch:changeFields>
+            <sch:props></sch:props>
             <sch:dataSourceType></sch:dataSourceType>
             <sch:anchorObjectTypeName></sch:anchorObjectTypeName>
         </sch:BmfPageField>
@@ -458,6 +465,7 @@
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
             <sch:changeFields></sch:changeFields>
+            <sch:props></sch:props>
             <sch:dataSourceType></sch:dataSourceType>
             <sch:anchorObjectTypeName></sch:anchorObjectTypeName>
         </sch:BmfPageField>
@@ -512,6 +520,7 @@
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
             <sch:changeFields></sch:changeFields>
+            <sch:props></sch:props>
             <sch:dataSourceType></sch:dataSourceType>
             <sch:anchorObjectTypeName></sch:anchorObjectTypeName>
         </sch:BmfPageField>
@@ -566,6 +575,7 @@
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
             <sch:changeFields></sch:changeFields>
+            <sch:props></sch:props>
             <sch:dataSourceType></sch:dataSourceType>
             <sch:anchorObjectTypeName></sch:anchorObjectTypeName>
         </sch:BmfPageField>
@@ -620,6 +630,7 @@
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
             <sch:changeFields></sch:changeFields>
+            <sch:props></sch:props>
             <sch:dataSourceType></sch:dataSourceType>
             <sch:anchorObjectTypeName></sch:anchorObjectTypeName>
         </sch:BmfPageField>
@@ -674,6 +685,7 @@
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
             <sch:changeFields></sch:changeFields>
+            <sch:props></sch:props>
             <sch:dataSourceType></sch:dataSourceType>
             <sch:anchorObjectTypeName></sch:anchorObjectTypeName>
             <sch:bmfDomain isRef="true">ButtonActionType</sch:bmfDomain>
@@ -729,6 +741,7 @@
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
             <sch:changeFields></sch:changeFields>
+            <sch:props></sch:props>
             <sch:dataSourceType></sch:dataSourceType>
             <sch:anchorObjectTypeName></sch:anchorObjectTypeName>
         </sch:BmfPageField>
@@ -783,6 +796,7 @@
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
             <sch:changeFields></sch:changeFields>
+            <sch:props></sch:props>
             <sch:dataSourceType></sch:dataSourceType>
             <sch:anchorObjectTypeName></sch:anchorObjectTypeName>
             <sch:bmfDomain isRef="true">DomainTable</sch:bmfDomain>
@@ -838,6 +852,7 @@
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
             <sch:changeFields></sch:changeFields>
+            <sch:props></sch:props>
             <sch:dataSourceType></sch:dataSourceType>
             <sch:anchorObjectTypeName></sch:anchorObjectTypeName>
         </sch:BmfPageField>
@@ -892,6 +907,7 @@
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
             <sch:changeFields></sch:changeFields>
+            <sch:props></sch:props>
             <sch:dataSourceType></sch:dataSourceType>
             <sch:anchorObjectTypeName></sch:anchorObjectTypeName>
         </sch:BmfPageField>
@@ -946,6 +962,7 @@
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
             <sch:changeFields></sch:changeFields>
+            <sch:props></sch:props>
             <sch:dataSourceType></sch:dataSourceType>
             <sch:anchorObjectTypeName></sch:anchorObjectTypeName>
         </sch:BmfPageField>
@@ -1000,6 +1017,7 @@
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
             <sch:changeFields></sch:changeFields>
+            <sch:props></sch:props>
             <sch:dataSourceType></sch:dataSourceType>
             <sch:anchorObjectTypeName></sch:anchorObjectTypeName>
         </sch:BmfPageField>
@@ -1054,6 +1072,7 @@
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
             <sch:changeFields></sch:changeFields>
+            <sch:props></sch:props>
             <sch:dataSourceType></sch:dataSourceType>
             <sch:anchorObjectTypeName></sch:anchorObjectTypeName>
         </sch:BmfPageField>
@@ -1108,6 +1127,7 @@
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
             <sch:changeFields></sch:changeFields>
+            <sch:props></sch:props>
             <sch:dataSourceType></sch:dataSourceType>
             <sch:anchorObjectTypeName></sch:anchorObjectTypeName>
         </sch:BmfPageField>
@@ -1162,6 +1182,7 @@
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
             <sch:changeFields></sch:changeFields>
+            <sch:props></sch:props>
             <sch:dataSourceType></sch:dataSourceType>
             <sch:anchorObjectTypeName></sch:anchorObjectTypeName>
         </sch:BmfPageField>
@@ -1216,6 +1237,7 @@
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
             <sch:changeFields></sch:changeFields>
+            <sch:props></sch:props>
             <sch:dataSourceType></sch:dataSourceType>
             <sch:anchorObjectTypeName></sch:anchorObjectTypeName>
         </sch:BmfPageField>
@@ -1270,6 +1292,7 @@
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
             <sch:changeFields></sch:changeFields>
+            <sch:props></sch:props>
             <sch:dataSourceType></sch:dataSourceType>
             <sch:anchorObjectTypeName></sch:anchorObjectTypeName>
         </sch:BmfPageField>
@@ -1324,6 +1347,7 @@
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
             <sch:changeFields></sch:changeFields>
+            <sch:props></sch:props>
             <sch:dataSourceType></sch:dataSourceType>
             <sch:anchorObjectTypeName></sch:anchorObjectTypeName>
         </sch:BmfPageField>
@@ -1378,6 +1402,7 @@
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
             <sch:changeFields></sch:changeFields>
+            <sch:props></sch:props>
             <sch:dataSourceType></sch:dataSourceType>
             <sch:anchorObjectTypeName></sch:anchorObjectTypeName>
         </sch:BmfPageField>
@@ -1432,6 +1457,7 @@
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
             <sch:changeFields></sch:changeFields>
+            <sch:props></sch:props>
             <sch:dataSourceType></sch:dataSourceType>
             <sch:anchorObjectTypeName></sch:anchorObjectTypeName>
         </sch:BmfPageField>
@@ -1486,6 +1512,7 @@
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
             <sch:changeFields></sch:changeFields>
+            <sch:props></sch:props>
             <sch:dataSourceType></sch:dataSourceType>
             <sch:anchorObjectTypeName></sch:anchorObjectTypeName>
         </sch:BmfPageField>
@@ -1540,6 +1567,7 @@
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
             <sch:changeFields></sch:changeFields>
+            <sch:props></sch:props>
             <sch:dataSourceType></sch:dataSourceType>
             <sch:anchorObjectTypeName></sch:anchorObjectTypeName>
             <sch:bmfDomain isRef="true">ObjectType</sch:bmfDomain>
@@ -1595,6 +1623,7 @@
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
             <sch:changeFields></sch:changeFields>
+            <sch:props></sch:props>
             <sch:dataSourceType></sch:dataSourceType>
             <sch:anchorObjectTypeName></sch:anchorObjectTypeName>
         </sch:BmfPageField>
@@ -1649,6 +1678,7 @@
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
             <sch:changeFields></sch:changeFields>
+            <sch:props></sch:props>
             <sch:dataSourceType></sch:dataSourceType>
             <sch:anchorObjectTypeName></sch:anchorObjectTypeName>
         </sch:BmfPageField>
@@ -1703,6 +1733,7 @@
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
             <sch:changeFields></sch:changeFields>
+            <sch:props></sch:props>
             <sch:dataSourceType></sch:dataSourceType>
             <sch:anchorObjectTypeName></sch:anchorObjectTypeName>
         </sch:BmfPageField>
@@ -1757,6 +1788,7 @@
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
             <sch:changeFields></sch:changeFields>
+            <sch:props></sch:props>
             <sch:dataSourceType></sch:dataSourceType>
             <sch:anchorObjectTypeName></sch:anchorObjectTypeName>
         </sch:BmfPageField>
@@ -1811,6 +1843,7 @@
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
             <sch:changeFields></sch:changeFields>
+            <sch:props></sch:props>
             <sch:dataSourceType></sch:dataSourceType>
             <sch:anchorObjectTypeName></sch:anchorObjectTypeName>
         </sch:BmfPageField>
@@ -1865,6 +1898,7 @@
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
             <sch:changeFields></sch:changeFields>
+            <sch:props></sch:props>
             <sch:dataSourceType></sch:dataSourceType>
             <sch:anchorObjectTypeName></sch:anchorObjectTypeName>
         </sch:BmfPageField>
@@ -1919,6 +1953,7 @@
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
             <sch:changeFields></sch:changeFields>
+            <sch:props></sch:props>
             <sch:dataSourceType></sch:dataSourceType>
             <sch:anchorObjectTypeName></sch:anchorObjectTypeName>
         </sch:BmfPageField>
@@ -1973,6 +2008,7 @@
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
             <sch:changeFields></sch:changeFields>
+            <sch:props></sch:props>
             <sch:dataSourceType></sch:dataSourceType>
             <sch:anchorObjectTypeName></sch:anchorObjectTypeName>
         </sch:BmfPageField>
@@ -2027,6 +2063,7 @@
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
             <sch:changeFields></sch:changeFields>
+            <sch:props></sch:props>
             <sch:dataSourceType></sch:dataSourceType>
             <sch:anchorObjectTypeName></sch:anchorObjectTypeName>
         </sch:BmfPageField>
@@ -2081,6 +2118,7 @@
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
             <sch:changeFields></sch:changeFields>
+            <sch:props></sch:props>
             <sch:dataSourceType></sch:dataSourceType>
             <sch:anchorObjectTypeName></sch:anchorObjectTypeName>
         </sch:BmfPageField>
@@ -2135,6 +2173,7 @@
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
             <sch:changeFields></sch:changeFields>
+            <sch:props></sch:props>
             <sch:dataSourceType></sch:dataSourceType>
             <sch:anchorObjectTypeName></sch:anchorObjectTypeName>
         </sch:BmfPageField>
@@ -2189,6 +2228,7 @@
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
             <sch:changeFields></sch:changeFields>
+            <sch:props></sch:props>
             <sch:dataSourceType></sch:dataSourceType>
             <sch:anchorObjectTypeName></sch:anchorObjectTypeName>
         </sch:BmfPageField>
@@ -2243,6 +2283,7 @@
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
             <sch:changeFields></sch:changeFields>
+            <sch:props></sch:props>
             <sch:dataSourceType></sch:dataSourceType>
             <sch:anchorObjectTypeName></sch:anchorObjectTypeName>
         </sch:BmfPageField>
@@ -2297,6 +2338,7 @@
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
             <sch:changeFields></sch:changeFields>
+            <sch:props></sch:props>
             <sch:dataSourceType></sch:dataSourceType>
             <sch:anchorObjectTypeName></sch:anchorObjectTypeName>
             <sch:bmfDomain isRef="true">YesNo</sch:bmfDomain>
@@ -2352,6 +2394,7 @@
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
             <sch:changeFields></sch:changeFields>
+            <sch:props></sch:props>
             <sch:dataSourceType></sch:dataSourceType>
             <sch:anchorObjectTypeName></sch:anchorObjectTypeName>
             <sch:bmfDomain isRef="true">YesNo</sch:bmfDomain>
@@ -2407,6 +2450,7 @@
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
             <sch:changeFields></sch:changeFields>
+            <sch:props></sch:props>
             <sch:dataSourceType></sch:dataSourceType>
             <sch:anchorObjectTypeName></sch:anchorObjectTypeName>
             <sch:bmfDomain isRef="true">YesNo</sch:bmfDomain>
@@ -2462,6 +2506,7 @@
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
             <sch:changeFields></sch:changeFields>
+            <sch:props></sch:props>
             <sch:dataSourceType></sch:dataSourceType>
             <sch:anchorObjectTypeName></sch:anchorObjectTypeName>
             <sch:bmfDomain isRef="true">SortDirection</sch:bmfDomain>
@@ -2517,6 +2562,7 @@
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
             <sch:changeFields></sch:changeFields>
+            <sch:props></sch:props>
             <sch:dataSourceType></sch:dataSourceType>
             <sch:anchorObjectTypeName></sch:anchorObjectTypeName>
             <sch:bmfDomain isRef="true">FilterTypeDomain</sch:bmfDomain>
@@ -2572,6 +2618,7 @@
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
             <sch:changeFields></sch:changeFields>
+            <sch:props></sch:props>
             <sch:dataSourceType></sch:dataSourceType>
             <sch:anchorObjectTypeName></sch:anchorObjectTypeName>
         </sch:BmfPageField>
@@ -2626,6 +2673,7 @@
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
             <sch:changeFields></sch:changeFields>
+            <sch:props></sch:props>
             <sch:dataSourceType></sch:dataSourceType>
             <sch:anchorObjectTypeName></sch:anchorObjectTypeName>
         </sch:BmfPageField>
@@ -2680,6 +2728,7 @@
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
             <sch:changeFields></sch:changeFields>
+            <sch:props></sch:props>
             <sch:dataSourceType></sch:dataSourceType>
             <sch:anchorObjectTypeName></sch:anchorObjectTypeName>
         </sch:BmfPageField>
@@ -2734,6 +2783,7 @@
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
             <sch:changeFields></sch:changeFields>
+            <sch:props></sch:props>
             <sch:dataSourceType></sch:dataSourceType>
             <sch:anchorObjectTypeName></sch:anchorObjectTypeName>
         </sch:BmfPageField>
@@ -2788,6 +2838,7 @@
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
             <sch:changeFields></sch:changeFields>
+            <sch:props></sch:props>
             <sch:dataSourceType></sch:dataSourceType>
             <sch:anchorObjectTypeName></sch:anchorObjectTypeName>
             <sch:bmfDomain isRef="true">ChangeType</sch:bmfDomain>
@@ -2843,6 +2894,7 @@
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
             <sch:changeFields></sch:changeFields>
+            <sch:props></sch:props>
             <sch:dataSourceType></sch:dataSourceType>
             <sch:anchorObjectTypeName></sch:anchorObjectTypeName>
         </sch:BmfPageField>
@@ -2897,6 +2949,7 @@
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
             <sch:changeFields></sch:changeFields>
+            <sch:props></sch:props>
             <sch:dataSourceType></sch:dataSourceType>
             <sch:anchorObjectTypeName></sch:anchorObjectTypeName>
         </sch:BmfPageField>
@@ -2951,6 +3004,7 @@
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
             <sch:changeFields></sch:changeFields>
+            <sch:props></sch:props>
             <sch:dataSourceType></sch:dataSourceType>
             <sch:anchorObjectTypeName></sch:anchorObjectTypeName>
             <sch:bmfDomain isRef="true">DataSourceType</sch:bmfDomain>
@@ -3006,6 +3060,7 @@
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
             <sch:changeFields></sch:changeFields>
+            <sch:props></sch:props>
             <sch:dataSourceType></sch:dataSourceType>
             <sch:anchorObjectTypeName></sch:anchorObjectTypeName>
         </sch:BmfPageField>
@@ -3060,6 +3115,7 @@
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
             <sch:changeFields></sch:changeFields>
+            <sch:props></sch:props>
             <sch:dataSourceType></sch:dataSourceType>
             <sch:anchorObjectTypeName></sch:anchorObjectTypeName>
         </sch:BmfPageField>
@@ -3114,6 +3170,7 @@
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
             <sch:changeFields></sch:changeFields>
+            <sch:props></sch:props>
             <sch:dataSourceType></sch:dataSourceType>
             <sch:anchorObjectTypeName></sch:anchorObjectTypeName>
         </sch:BmfPageField>
@@ -3168,6 +3225,7 @@
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
             <sch:changeFields></sch:changeFields>
+            <sch:props></sch:props>
             <sch:dataSourceType></sch:dataSourceType>
             <sch:anchorObjectTypeName></sch:anchorObjectTypeName>
         </sch:BmfPageField>
@@ -3222,6 +3280,7 @@
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
             <sch:changeFields></sch:changeFields>
+            <sch:props></sch:props>
             <sch:dataSourceType></sch:dataSourceType>
             <sch:anchorObjectTypeName></sch:anchorObjectTypeName>
         </sch:BmfPageField>
@@ -3276,6 +3335,7 @@
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
             <sch:changeFields></sch:changeFields>
+            <sch:props></sch:props>
             <sch:dataSourceType></sch:dataSourceType>
             <sch:anchorObjectTypeName></sch:anchorObjectTypeName>
         </sch:BmfPageField>
@@ -3330,6 +3390,7 @@
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
             <sch:changeFields></sch:changeFields>
+            <sch:props></sch:props>
             <sch:dataSourceType></sch:dataSourceType>
             <sch:anchorObjectTypeName></sch:anchorObjectTypeName>
         </sch:BmfPageField>
@@ -3384,6 +3445,7 @@
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
             <sch:changeFields></sch:changeFields>
+            <sch:props></sch:props>
             <sch:dataSourceType></sch:dataSourceType>
             <sch:anchorObjectTypeName></sch:anchorObjectTypeName>
         </sch:BmfPageField>
@@ -3438,6 +3500,7 @@
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
             <sch:changeFields></sch:changeFields>
+            <sch:props></sch:props>
             <sch:dataSourceType></sch:dataSourceType>
             <sch:anchorObjectTypeName></sch:anchorObjectTypeName>
         </sch:BmfPageField>
@@ -3492,6 +3555,7 @@
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
             <sch:changeFields></sch:changeFields>
+            <sch:props></sch:props>
             <sch:dataSourceType></sch:dataSourceType>
             <sch:anchorObjectTypeName></sch:anchorObjectTypeName>
         </sch:BmfPageField>
@@ -3546,6 +3610,7 @@
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
             <sch:changeFields></sch:changeFields>
+            <sch:props></sch:props>
             <sch:dataSourceType></sch:dataSourceType>
             <sch:anchorObjectTypeName></sch:anchorObjectTypeName>
         </sch:BmfPageField>
