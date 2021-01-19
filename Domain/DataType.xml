@@ -62,7 +62,7 @@
         <sch:BmfDomainEntry>
             <sch:seqNumber>10</sch:seqNumber>
             <sch:displayValue>UniqueIdentifier</sch:displayValue>
-            <sch:dataValue>Uniqueidentifier</sch:dataValue>
+            <sch:dataValue>UniqueIdentifier</sch:dataValue>
             <sch:keyValues>{}</sch:keyValues>
         </sch:BmfDomainEntry>
     </sch:domainEntries>

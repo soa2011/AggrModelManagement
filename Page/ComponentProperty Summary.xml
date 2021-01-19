@@ -194,7 +194,7 @@
             <sch:anchorObjectTypeName></sch:anchorObjectTypeName>
         </sch:BmfPageField>
         <sch:BmfPageField>
-            <sch:name>Description</sch:name>
+            <sch:name>EnumTypeName</sch:name>
             <sch:seqNumber>300</sch:seqNumber>
             <sch:tabIndex>0</sch:tabIndex>
             <sch:tabPage></sch:tabPage>
@@ -202,7 +202,7 @@
             <sch:fieldType>Text</sch:fieldType>
             <sch:widgetType></sch:widgetType>
             <sch:refTargetType></sch:refTargetType>
-            <sch:label>Description</sch:label>
+            <sch:label>EnumTypeName</sch:label>
             <sch:controllingParameters></sch:controllingParameters>
             <sch:domainName></sch:domainName>
             <sch:dynaDomain></sch:dynaDomain>
@@ -249,7 +249,7 @@
             <sch:anchorObjectTypeName></sch:anchorObjectTypeName>
         </sch:BmfPageField>
         <sch:BmfPageField>
-            <sch:name>UpdatedOn</sch:name>
+            <sch:name>Description</sch:name>
             <sch:seqNumber>600</sch:seqNumber>
             <sch:tabIndex>0</sch:tabIndex>
             <sch:tabPage></sch:tabPage>
@@ -257,7 +257,7 @@
             <sch:fieldType>Text</sch:fieldType>
             <sch:widgetType></sch:widgetType>
             <sch:refTargetType></sch:refTargetType>
-            <sch:label>UpdatedOn</sch:label>
+            <sch:label>Description</sch:label>
             <sch:controllingParameters></sch:controllingParameters>
             <sch:domainName></sch:domainName>
             <sch:dynaDomain></sch:dynaDomain>
