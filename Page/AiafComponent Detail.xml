@@ -692,5 +692,26 @@
     </sch:fields>
     <sch:variables/>
     <sch:treeNodes/>
-    <sch:buttons/>
+    <sch:buttons>
+        <sch:BmfPageButton>
+            <sch:seqNumber>2000</sch:seqNumber>
+            <sch:buttonName>EditComponent</sch:buttonName>
+            <sch:displayCondition></sch:displayCondition>
+            <sch:displayResource></sch:displayResource>
+            <sch:description></sch:description>
+            <sch:showButton>true</sch:showButton>
+            <sch:eventHandler></sch:eventHandler>
+            <sch:bmfButton isRef="true">EditComponent</sch:bmfButton>
+        </sch:BmfPageButton>
+        <sch:BmfPageButton>
+            <sch:seqNumber>2400</sch:seqNumber>
+            <sch:buttonName>InitComponent</sch:buttonName>
+            <sch:displayCondition></sch:displayCondition>
+            <sch:displayResource></sch:displayResource>
+            <sch:description></sch:description>
+            <sch:showButton>true</sch:showButton>
+            <sch:eventHandler></sch:eventHandler>
+            <sch:bmfButton isRef="true">InitComponent</sch:bmfButton>
+        </sch:BmfPageButton>
+    </sch:buttons>
 </sch:PageDefinition>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<sch:Button xmlns:sch="http://Baf.com/schemas" name="EditComponent">
+    <sch:name>EditComponent</sch:name>
+    <sch:label>EditComponent</sch:label>
+    <sch:behavior>DynamicRoute</sch:behavior>
+    <sch:bmfTransactionName></sch:bmfTransactionName>
+    <sch:content>/PageBuilderX/${context.PageId}</sch:content>
+    <sch:appliesTo></sch:appliesTo>
+    <sch:securityToken></sch:securityToken>
+    <sch:description></sch:description>
+</sch:Button>
