@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<sch:PageDefinition xmlns:sch="http://Baf.com/schemas" name="ParameterSpec Summary">
-    <sch:name>ParameterSpec Summary</sch:name>
+<sch:PageDefinition xmlns:sch="http://Baf.com/schemas" name="ParameterDef Summary">
+    <sch:name>ParameterDef Summary</sch:name>
     <sch:pageNumber></sch:pageNumber>
     <sch:pageType>Summary</sch:pageType>
     <sch:pageCondition></sch:pageCondition>
     <sch:title></sch:title>
     <sch:seqNumber>1500</sch:seqNumber>
-    <sch:objectTypeName>ParameterSpec</sch:objectTypeName>
+    <sch:objectTypeName>ParameterDef</sch:objectTypeName>
     <sch:display>true</sch:display>
     <sch:labelColWidth>200</sch:labelColWidth>
     <sch:valueColWidth>300</sch:valueColWidth>
@@ -25,7 +25,7 @@
     <sch:changeFields></sch:changeFields>
     <sch:clientSideController></sch:clientSideController>
     <sch:serverSideController></sch:serverSideController>
-    <sch:objectType isRef="true">ParameterSpec</sch:objectType>
+    <sch:objectType isRef="true">ParameterDef</sch:objectType>
     <sch:pageAreas/>
     <sch:fields>
         <sch:BmfPageField>
