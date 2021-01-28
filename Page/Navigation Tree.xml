@@ -530,26 +530,6 @@
             <sch:description></sch:description>
         </sch:BmfTreeNode>
         <sch:BmfTreeNode>
-            <sch:tableName>ComponentProperty</sch:tableName>
-            <sch:type>Collection</sch:type>
-            <sch:seqIndex>4002</sch:seqIndex>
-            <sch:format>ComponentProperties(%s)</sch:format>
-            <sch:columns>#count</sch:columns>
-            <sch:action></sch:action>
-            <sch:quoteDisplay>true</sch:quoteDisplay>
-            <sch:description></sch:description>
-        </sch:BmfTreeNode>
-        <sch:BmfTreeNode>
-            <sch:tableName>ComponentProperty</sch:tableName>
-            <sch:type>Item</sch:type>
-            <sch:seqIndex>4003</sch:seqIndex>
-            <sch:format>%s</sch:format>
-            <sch:columns>Name</sch:columns>
-            <sch:action>No</sch:action>
-            <sch:quoteDisplay>false</sch:quoteDisplay>
-            <sch:description></sch:description>
-        </sch:BmfTreeNode>
-        <sch:BmfTreeNode>
             <sch:tableName>PageDefinition</sch:tableName>
             <sch:type>Collection</sch:type>
             <sch:seqIndex>4004</sch:seqIndex>
@@ -570,17 +550,17 @@
             <sch:description></sch:description>
         </sch:BmfTreeNode>
         <sch:BmfTreeNode>
-            <sch:tableName>PageVariable</sch:tableName>
+            <sch:tableName>ParameterSpec</sch:tableName>
             <sch:type>Collection</sch:type>
             <sch:seqIndex>3000</sch:seqIndex>
-            <sch:format>PageVariables(%s)</sch:format>
+            <sch:format>ParameterSpecs(%s)</sch:format>
             <sch:columns>#count</sch:columns>
             <sch:action></sch:action>
             <sch:quoteDisplay>true</sch:quoteDisplay>
             <sch:description></sch:description>
         </sch:BmfTreeNode>
         <sch:BmfTreeNode>
-            <sch:tableName>PageVariable</sch:tableName>
+            <sch:tableName>ParameterSpec</sch:tableName>
             <sch:type>Item</sch:type>
             <sch:seqIndex>3000</sch:seqIndex>
             <sch:format>%s</sch:format>
