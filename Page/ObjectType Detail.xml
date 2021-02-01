@@ -1158,4 +1158,5 @@
             <sch:bmfButton isRef="true">EditPages2</sch:bmfButton>
         </sch:BmfPageButton>
     </sch:buttons>
+    <sch:plugins/>
 </sch:PageDefinition>

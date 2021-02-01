@@ -226,4 +226,5 @@
             <sch:eventHandler></sch:eventHandler>
         </sch:BmfPageButton>
     </sch:buttons>
+    <sch:plugins/>
 </sch:PageDefinition>

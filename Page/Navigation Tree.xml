@@ -851,4 +851,5 @@
         </sch:BmfTreeNode>
     </sch:treeNodes>
     <sch:buttons/>
+    <sch:plugins/>
 </sch:PageDefinition>

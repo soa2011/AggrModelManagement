@@ -795,4 +795,5 @@
             <sch:bmfButton isRef="true">SetupSecurity</sch:bmfButton>
         </sch:BmfPageButton>
     </sch:buttons>
+    <sch:plugins/>
 </sch:PageDefinition>

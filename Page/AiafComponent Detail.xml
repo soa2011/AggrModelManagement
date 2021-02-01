@@ -714,4 +714,5 @@
             <sch:bmfButton isRef="true">InitComponent</sch:bmfButton>
         </sch:BmfPageButton>
     </sch:buttons>
+    <sch:plugins/>
 </sch:PageDefinition>

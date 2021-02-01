@@ -373,4 +373,5 @@
             <sch:bmfButton isRef="true">Download</sch:bmfButton>
         </sch:BmfPageButton>
     </sch:buttons>
+    <sch:plugins/>
 </sch:PageDefinition>
